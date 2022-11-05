@@ -23,7 +23,7 @@ A safe internet user is an informed internet user.
 
 The [privacy policy](https://ecoevo.social/terms) indicate what will be enforced regarding privacy.
 
-:::{.callout-note}
+:::{.callout-warning}
 ## Important considerations about privacy
 
 Posts on Mastodon are not end-to-end encrypted. Do not share any sensitive information over Mastodon.
