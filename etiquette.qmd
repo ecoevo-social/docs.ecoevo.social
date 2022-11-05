@@ -48,4 +48,4 @@ When posting a thread:
 
 It is considerate to use the `i/n` indication at the end of your toots to better indicate this is a thread,
 where `i` is the number of the current toot in the thread and `n` is the total number of toots. You can keep it as a
-literal `n` if you don't know the total number of toots). This approach is similar to the convetion people use at the bird site.
+literal `n` if you don't know the total number of toots). This approach is similar to the convention people use at the bird site.
