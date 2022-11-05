@@ -1,8 +1,6 @@
 ---
-jupyter: python3
+title: Rules
 ---
-
-# Rules
 
 Rules you accept to adhere to when using ecoevo.social:
 

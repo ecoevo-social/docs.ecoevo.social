@@ -1,5 +1,5 @@
 ---
-jupyter: python3
+title: ecoevo.social guide
 ---
 
 Rules to respect, etiquette and general things to know about the 

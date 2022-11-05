@@ -1,8 +1,6 @@
 ---
-jupyter: python3
+title: Etiquette on ecoevo.social
 ---
-
-# Etiquette on ecoevo.social
 
 ## Use of Content Warnings
 

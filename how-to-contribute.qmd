@@ -1,8 +1,6 @@
 ---
-jupyter: python3
+title: How to contribute
 ---
-
-# How to contribute
 
 ## Contributing to this documentation
 
