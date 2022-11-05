@@ -7,7 +7,9 @@ title: How to contribute
 This is a quarto book hosted on github.
 
 To contribute, head to the github repository and open either
-an issue, a pull-request or a discussion.
+an [issue](https://github.com/alxsimon/ecoevo.social-docs/issues),
+a [pull-request](https://github.com/alxsimon/ecoevo.social-docs/pulls)
+or a [discussion](https://github.com/alxsimon/ecoevo.social-docs/discussions).
 
 Documents are written in markdown, and content are in the `./*.qmd` documents.
 
