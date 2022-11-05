@@ -9,6 +9,8 @@ book:
   repo-actions: [edit]
   sidebar:
     style: docked
+  page-footer: |
+    This work is licensed under a <br><a href = https://creativecommons.org/licenses/by/4.0/>Creative Commons Attribution 4.0 International License</a>
   license: CC-BY-4.0
   chapters:
     - index.qmd
