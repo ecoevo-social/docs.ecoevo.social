@@ -20,11 +20,12 @@ Content Warnings should be used for topics including, but not limited to:
 
 ## Describe the media you post
 
-Description of photos and videos you post are really important
-to increase the accessibility of Mastodon to visually impaired people.
+Written descriptions of photos and videos you post are a really important way to increase
+the accessibility of Mastodon for visually impaired people.
 
-When posting a media, click the edit button and
-a window will allow you to enter a description.
+When posting media (pictures or videos), click the edit button and a window will
+allow you to enter a short written description.
+This is sometimes also referred to as "alt text" or "alternative text".
 
 ## Use of hashtags
 
