@@ -25,7 +25,7 @@
     "href": "index.html#resources-for-getting-started-with-mastodon-and-the-fediverse",
     "title": "ecoevo.social-docs",
     "section": "Resources for Getting Started with Mastodon and the Fediverse",
-    "text": "Resources for Getting Started with Mastodon and the Fediverse\n\nEverything I know about Mastodon, by Danielle Navarro\nMastodon documentation\nMastodon quick start guide\nA Brief Mastodon Guide for Social Media Worriers, by Per Axbom"
+    "text": "Resources for Getting Started with Mastodon and the Fediverse\n\nEverything I know about Mastodon, by Danielle Navarro\nMastodon documentation\nMastodon quick start guide\nA Brief Mastodon Guide for Social Media Worriers, by Per Axbom\nFedi Tips - An Unofficial Guide to Mastodon and the Fediverse"
   },
   {
     "objectID": "rules.html",
@@ -53,7 +53,7 @@
     "href": "etiquette.html#threads",
     "title": "3  Etiquette on ecoevo.social",
     "section": "3.3 Threads",
-    "text": "3.3 Threads\nWhen posting a thread:\n\nSet your first toot to be Public (visible for all)\nThen, reply to your first toot and set the visibility to Unlisted (visible for all, but opted-out of discovery features)\nContinue your thread and the visibility will be automatically continue to be set as Unlisted unless you change it\n\nIt is considerate to use the i/n indication at the end of your toots to better indicate this is a thread, where i is the number of the current toot in the thread and n is the total number of toots. You can keep it as a literal n if you don’t know the total number of toots). This approach is similar to the convetion people use at the bird site."
+    "text": "3.3 Threads\nWhen posting a thread:\n\nSet your first toot to be Public (visible for all)\nThen, reply to your first toot and set the visibility to Unlisted (visible for all, but opted-out of discovery features)\nContinue your thread and the visibility will be automatically continue to be set as Unlisted unless you change it\n\nIt is considerate to use the i/n indication at the end of your toots to better indicate this is a thread, where i is the number of the current toot in the thread and n is the total number of toots. You can keep it as a literal n if you don’t know the total number of toots). This approach is similar to the convention people use at the bird site."
   },
   {
     "objectID": "how-to-contribute.html",
