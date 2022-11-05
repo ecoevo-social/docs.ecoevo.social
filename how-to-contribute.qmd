@@ -13,9 +13,15 @@ or a [discussion](https://github.com/alxsimon/ecoevo.social-docs/discussions).
 
 Documents are written in markdown, and content are in the `./*.qmd` documents.
 
-## Contributing financially to the hosting
+## Contributing financially
 
-Head to [Open Collective](https://opencollective.com/ecoevosocial).
+If you want to contribute financially to server hosting costs,
+head to [Open Collective](https://opencollective.com/ecoevosocial).
+The budget is fully transparent there.
+
+
+We are not there yet, but in case more money than necessary is collected, it will be redistributed to the community.
+This could take a lot of forms, such as "best student science communication toot" competition and prize?
 
 ## Helping moderating
 
