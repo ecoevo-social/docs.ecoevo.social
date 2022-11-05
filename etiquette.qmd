@@ -45,6 +45,6 @@ When posting a thread:
 3. Continue your thread and the visibility will be automatically continued as Unlisted
 
 It is nice to use the `i/n` indication at the end of your toots to better indicate this is a thread,
-where i in the current toot and n is the total number of toots (you can keep it as a litteral n if you don't know the total number of toots).
+where `i` in the current toot and `n` is the total number of toots (you can keep it as a litteral `n` if you don't know the total number of toots).
 Well you know how to do it if you come from the bird site.
 
