@@ -4,28 +4,29 @@ title: How to contribute
 
 ## Contributing to this documentation
 
-This is a quarto book hosted on github.
+This documentation is being developed as a [Quarto](https://quarto.org) book [hosted on GitHub](https://github.com/alxsimon/ecoevo.social-docs).
 
-To contribute, head to the github repository and open either
-an [issue](https://github.com/alxsimon/ecoevo.social-docs/issues),
-a [pull-request](https://github.com/alxsimon/ecoevo.social-docs/pulls)
-or a [discussion](https://github.com/alxsimon/ecoevo.social-docs/discussions).
+To contribute, head to the GitHub repository and open either:
 
-Documents are written in markdown, and content are in the `./*.qmd` documents.
+* an [issue](https://github.com/alxsimon/ecoevo.social-docs/issues)
+* a [pull-request](https://github.com/alxsimon/ecoevo.social-docs/pulls)
+* or start a [discussion](https://github.com/alxsimon/ecoevo.social-docs/discussions)
 
-## Contributing financially
+Documents are written in markdown, with each section in its respective `./*.qmd` document.
 
-If you want to contribute financially to server hosting costs,
+## Contributing financially to server costs
+
+If you would like to contribute financially to server hosting costs,
 head to [Open Collective](https://opencollective.com/ecoevosocial).
 The budget is fully transparent there.
 
+While this is not currently the case, if more money than necessary to operate the server and renew the domain name
+is collected, any additional funds will be redistributed to the community. This redistribution could occur in a number of possible ways,
+including via possible initiatives like a "best student science communication toot" competition/prize.
 
-We are not there yet, but in case more money than necessary is collected, it will be redistributed to the community.
-This could take a lot of forms, such as "best student science communication toot" competition and prize?
+## Contributing to server moderation
 
-## Helping moderating
+If you want to help protect people using this instance from internal and/or external misbehaviors,
+you can ask me, Alexis Simon, to help contribute to moderating.
 
-If you want to help protect people from this instance against external and internal misbehaviors,
-you can ask me to help moderating.
-
-Send me direct message [@alxsim@ecoevo.social](https://ecoevo.social/@alxsim) and we can chat.
+To do so, send a direct message via [@alxsim@ecoevo.social](https://ecoevo.social/@alxsim) and we can chat.

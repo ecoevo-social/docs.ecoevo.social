@@ -1,3 +1,9 @@
-# ecoevo.social-docs
+# Documentation and Behavior Guidelines for the ecoevo.social Mastodon Server
 
-Rules to respect, etiquette and general things to know about this server or Mastodon in general.
+This is a repository for the rules to respect, expected etiquette, contribution guidelines,
+and general information for users about this Mastodon server or Mastodon in general.
+
+Please see the [Contribution Guide](./_book/how-to-contribute.html) for information on how to get involved.
+
+These materials were written collaboratively by [Alexis Simon](https://github.com/alxsimon)
+and a number of [other contributors](https://github.com/alxsimon/ecoevo.social-docs/graphs/contributors).
