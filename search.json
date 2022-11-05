@@ -4,28 +4,7 @@
     "href": "index.html",
     "title": "ecoevo.social-docs",
     "section": "",
-    "text": "Rules to respect, etiquette and general things to know about the ecoevo.social server and Mastodon in general.\necoevo.social is a Mastodon server dedicated to the biological Ecology and Evolution community. This is broadly defined; everyone who is connected to those topics is welcome.\necoevo.social is administered by Alexis Simon. This is volunteer work, and as such there may occasionally be some issues along the road that are not resolved immediately. Please be patient if issues arise, as we are all learning together how to best develop this community and space.\nIf you are in a position to do so, you can contribute financially for the maintenance of the server through Open Collective.\nEnjoy connecting!"
-  },
-  {
-    "objectID": "index.html#about-privacy",
-    "href": "index.html#about-privacy",
-    "title": "ecoevo.social-docs",
-    "section": "About privacy",
-    "text": "About privacy\nA safe internet user is an informed internet user.\nThe privacy policy indicates what will be enforced regarding privacy.\n\n\n\n\n\n\nImportant considerations about privacy\n\n\n\nPosts on Mastodon are not end-to-end encrypted. Do not share any sensitive information over Mastodon. For more details, see the privacy policy.\nYou must be aware that Mastodon data, both public and direct messages, are accessible by server operators and receiving servers (for example if you send a direct message to someone on another server).\nQuoted from the privacy policy:\n\nWe may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety.\n\nIf you need to have truly private conversations with someone else that contain sensitive information, we suggest you use another application offering end-to-end encryption and privacy. One good option is Signal."
-  },
-  {
-    "objectID": "index.html#what-is-mastodon",
-    "href": "index.html#what-is-mastodon",
-    "title": "ecoevo.social-docs",
-    "section": "What is Mastodon?",
-    "text": "What is Mastodon?\nMastodon is a federated microblogging platform. You can read more about it in its documentation."
-  },
-  {
-    "objectID": "index.html#resources-for-getting-started-with-mastodon-and-the-fediverse",
-    "href": "index.html#resources-for-getting-started-with-mastodon-and-the-fediverse",
-    "title": "ecoevo.social-docs",
-    "section": "Resources for Getting Started with Mastodon and the Fediverse",
-    "text": "Resources for Getting Started with Mastodon and the Fediverse\n\nEverything I know about Mastodon, by Danielle Navarro\nMastodon documentation\nMastodon quick start guide\nA Brief Mastodon Guide for Social Media Worriers, by Per Axbom\nFedi Tips - An Unofficial Guide to Mastodon and the Fediverse"
+    "text": "Rules to respect, etiquette and general things to know about the ecoevo.social server and Mastodon in general.\necoevo.social is a Mastodon server dedicated to the biological Ecology and Evolution community. This is broadly defined; everyone who is connected to those topics is welcome.\necoevo.social is administered by Alexis Simon. This is volunteer work, and as such there may occasionally be some issues along the road that are not resolved immediately. Please be patient if issues arise, as we are all learning together how to best develop this community and space.\nIf you are in a position to do so, you can contribute financially for the maintenance of the server through Open Collective.\nEnjoy connecting!\n\n\nA safe internet user is an informed internet user.\nThe privacy policy indicates what will be enforced regarding privacy.\n\n\n\n\n\n\nImportant considerations about privacy\n\n\n\nPosts on Mastodon are not end-to-end encrypted. Do not share any sensitive information over Mastodon. For more details, see the privacy policy.\nYou must be aware that Mastodon data, both public and direct messages, are accessible by server operators and receiving servers (for example if you send a direct message to someone on another server).\nQuoted from the privacy policy:\n\nWe may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety.\n\nIf you need to have truly private conversations with someone else that contain sensitive information, we suggest you use another application offering end-to-end encryption and privacy. One good option is Signal.\n\n\n\n\n\nMastodon is a federated microblogging platform. You can read more about it in its documentation.\n\n\n\n\nEverything I know about Mastodon, by Danielle Navarro\nMastodon documentation\nMastodon quick start guide\nA Brief Mastodon Guide for Social Media Worriers, by Per Axbom\nFedi Tips - An Unofficial Guide to Mastodon and the Fediverse"
   },
   {
     "objectID": "rules.html",
@@ -42,18 +21,25 @@
     "text": "Content Warnings (CW) are useful to:\n\nprotect people sensitive to a given subject from being unwillingly exposed to it,\nkeep subjects that may not interest everyone an opt-in option, and/or\nkeep timelines easier to read.\n\nContent Warnings should be used for topics including, but not limited to:\n\nTriggering content\n\nreports or news about sexual assault, harassment, violence, racism, LGBTQIA+-phobia, burnout, etc.\n\nGlorification of over-working\nPolitics\nJob postings: you can use the subject area as you would in an email Subject"
   },
   {
+    "objectID": "etiquette.html#describe-the-media-you-post",
+    "href": "etiquette.html#describe-the-media-you-post",
+    "title": "3  Etiquette on ecoevo.social",
+    "section": "3.2 Describe the media you post",
+    "text": "3.2 Describe the media you post\nDescription of photos and videos you post are really important to increase the accessibility of Mastodon to visually impaired people.\nWhen posting a media, click the edit button and a window will allow you to enter a description."
+  },
+  {
     "objectID": "etiquette.html#use-of-hashtags",
     "href": "etiquette.html#use-of-hashtags",
     "title": "3  Etiquette on ecoevo.social",
-    "section": "3.2 Use of hashtags",
-    "text": "3.2 Use of hashtags\nHashtags are how content from users you do not follow can be discovered on Mastodon, since the text content of toots is generally not searchable (in most cases anyway; in all cases it requires additional algorithms/software/infrastructure to do so).\nGiven that consideration, we encourage the use of hashtags to classify and broaden the potential reach of the content you share.\nHashtags should use the CamelCase format, where words are separated by upper cases, like so: #ThisNewHashtagIsGreat. This can aid in their readability both by people and by screen readers.\nA list of hashtags that could be used on ecoevo.social:\n\n#JobOffer when posting a job offer of any kind, add more hashtags to precise level #TenureTrack, #Postdoc, #GraduateStudent, #Technician, etc. and subjects #Ecology, #Labwork, #Modeling, etc.\n#Internship to advertise an internship, precise subjects similar to job offers\n#Conference to advertise a conference\n#Preprint, #JournalArticle, etc. for new research results\n#rstats or #python or other languages for coding questions or resources"
+    "section": "3.3 Use of hashtags",
+    "text": "3.3 Use of hashtags\nHashtags are how content from users you do not follow can be discovered on Mastodon, since the text content of toots is generally not searchable (in most cases anyway; in all cases it requires additional algorithms/software/infrastructure to do so).\nGiven that consideration, we encourage the use of hashtags to classify and broaden the potential reach of the content you share.\nHashtags should use the CamelCase format, where words are separated by upper cases, like so: #ThisNewHashtagIsGreat. This can aid in their readability both by people and by screen readers.\nA list of hashtags that could be used on ecoevo.social:\n\n#JobOffer when posting a job offer of any kind, add more hashtags to precise level #TenureTrack, #Postdoc, #GraduateStudent, #Technician, etc. and subjects #Ecology, #Labwork, #Modeling, etc.\n#Internship to advertise an internship, precise subjects similar to job offers\n#Conference to advertise a conference\n#Preprint, #JournalArticle, etc. for new research results\n#rstats or #python or other languages for coding questions or resources"
   },
   {
     "objectID": "etiquette.html#threads",
     "href": "etiquette.html#threads",
     "title": "3  Etiquette on ecoevo.social",
-    "section": "3.3 Threads",
-    "text": "3.3 Threads\nWhen posting a thread:\n\nSet your first toot to be Public (visible for all)\nThen, reply to your first toot and set the visibility to Unlisted (visible for all, but opted-out of discovery features)\nContinue your thread and the visibility will be automatically continue to be set as Unlisted unless you change it\n\nIt is considerate to use the i/n indication at the end of your toots to better indicate this is a thread, where i is the number of the current toot in the thread and n is the total number of toots. You can keep it as a literal n if you don’t know the total number of toots). This approach is similar to the convention people use at the bird site."
+    "section": "3.4 Threads",
+    "text": "3.4 Threads\nWhen posting a thread:\n\nSet your first toot to be Public (visible for all)\nThen, reply to your first toot and set the visibility to Unlisted (visible for all, but opted-out of discovery features)\nContinue your thread and the visibility will be automatically continue to be set as Unlisted unless you change it\n\nIt is considerate to use the i/n indication at the end of your toots to better indicate this is a thread, where i is the number of the current toot in the thread and n is the total number of toots. You can keep it as a literal n if you don’t know the total number of toots). This approach is similar to the convention people use at the bird site."
   },
   {
     "objectID": "how-to-contribute.html",
