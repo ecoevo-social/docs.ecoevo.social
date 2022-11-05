@@ -1,16 +1,16 @@
 ---
-title: ecoevo.social guide
+title: Guide to ecoevo.social
 ---
 
-Rules to respect, etiquette and general things to know about the 
-[ecoevo.social](https://ecoevo.social/) server or Mastodon in general.
+**Rules to respect, etiquette and general things to know about the 
+[ecoevo.social](https://ecoevo.social/) server and [Mastodon](#what-is-mastodon) in general.**
 
-[ecoevo.social](https://ecoevo.social/) is dedicated to the biological Ecology and Evolution community.
-This is broadly defined so everyone connected to those topics closely or more remotely are welcome.
+[ecoevo.social](https://ecoevo.social/) is a Mastodon server dedicated to the biological Ecology and Evolution community.
+This is broadly defined; everyone who is connected to those topics is welcome.
 
 [ecoevo.social](https://ecoevo.social/) is administered by [Alexis Simon](https://ecoevo.social/@alxsim).
-This is volunteering work, and as such it may encounter some issues along the road.
-Please be patient we are all learning here.
+This is volunteer work, and as such there may occasionally be some issues along the road that are not resolved immediately.
+Please be patient if issues arise, as we are all learning together how to best develop this community and space.
 
 If you are in a position to do so, you can contribute financially for the maintenance of the server
 through [Open Collective](https://opencollective.com/ecoevosocial).
@@ -21,7 +21,7 @@ Enjoy connecting!
 
 A safe internet user is an informed internet user.
 
-The [privacy policy](https://ecoevo.social/terms) indicate what will be enforced regarding privacy.
+The [privacy policy](https://ecoevo.social/terms) indicates what will be enforced regarding privacy.
 
 :::{.callout-warning}
 ## Important considerations about privacy
@@ -33,23 +33,22 @@ You must be aware that Mastodon data, both public and direct messages,
 are accessible by server operators and receiving servers 
 (for example if you send a direct message to someone on another server).
 
-Quoted from the [privacy policy](https://ecoevo.social/terms):<br>
-> We may also release your information when we believe release is appropriate to comply
-> with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+Quoted from the [privacy policy](https://ecoevo.social/terms):
 
-If you require to have truly private conversations containing sensitive information with someone else,
-we suggest you use another application offering end-to-end encryption and privacy. 
+> We may also release your information when we believe release is appropriate to comply
+> with the law, enforce our site policies, or protect our or others' rights, property, or safety.
+
+If you need to have truly private conversations with someone else that contain sensitive information,
+we suggest you use another application offering end-to-end encryption and privacy. One good option is [Signal](https://signal.org).
 :::
 
 ## What is Mastodon? {.unnumbered}
 
-Mastodon is a federated microblogging platform.
+Mastodon is a federated microblogging platform. You can read more about it in its [documentation](https://docs.joinmastodon.org/).
 
-You can read more about it in its [documentation](https://docs.joinmastodon.org/).
-
-## Already existing resources {.unnumbered}
+## Resources for Getting Started with Mastodon and the Fediverse {.unnumbered}
 
 * [Everything I know about Mastodon, by Danielle Navarro](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon)
 * [Mastodon documentation](https://docs.joinmastodon.org/)
-* [Maqtodon quick start guide](https://blog.joinmastodon.org/2018/08/mastodon-quick-start-guide/)
+* [Mastodon quick start guide](https://blog.joinmastodon.org/2018/08/mastodon-quick-start-guide/)
 * [A Brief Mastodon Guide for Social Media Worriers, by Per Axbom](https://axbom.com/mastodon-guide/)

@@ -2,15 +2,15 @@
 title: Rules
 ---
 
-Rules you accept to adhere to when using ecoevo.social:
+By using ecoevo.social, you agree to abide by the following rules:
 
 1. No racism, sexism, homophobia, transphobia, xenophobia, or casteism
 2. No incitement of violence or promotion of violent ideologies
-3. No harassment, dogpiling or doxxing of other users
-4. Do not share intentionally false or misleading information
-5. No sexually explicit or violent media posting
-6. No content illegal in France and Germany
+3. No harassment, dogpiling, or doxxing of other users
+4. No intentional sharing of false or misleading information
+5. No posting of sexually explicit or violent media
+6. No content that is considered illegal in France and/or Germany
 
 This set of rules has been copied from the mastodon.social instance.
-They are not set in stone and I encorage the community offering changes in wording or adding rules.
+They are not set in stone and community-suggested changes in wording or the addition of rules is welcomed.
 See the section [How to contribute](./how-to-contribute.html).
