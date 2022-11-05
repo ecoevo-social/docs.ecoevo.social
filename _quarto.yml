@@ -9,6 +9,7 @@ book:
   repo-actions: [edit]
   sidebar:
     style: docked
+  license: CC-BY-4.0
   chapters:
     - index.qmd
     - rules.qmd
