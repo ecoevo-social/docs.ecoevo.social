@@ -1,0 +1,52 @@
+---
+jupyter: python3
+---
+
+# Etiquette on ecoevo.social
+
+## Use of Content Warnings
+
+Content Warnings (CW) are useful to
+1) protect people sensitive to a given subject from being unwillingly exposed to it,
+2) keep subjects that may not interest everyone an opt-in option
+and/or 3) keep timelines easier to read.
+
+CW should be used for subjects such as:
+
+* Trigerring content: such as reports or news about sexual assault, harassment, violence, racism, LGBTQIA+-phobia, burn-out.
+* Glorification of over-working
+* Politics
+* Job postings: you can use the subject area as you would in an email `Subject`
+
+
+## Use of hashtags
+
+Hashtags is how content can be discovered on Mastodon.
+Text in toots is not searched (in most cases anyway, it requires additional algorithms to do so).
+
+Knowing that, we encourage the use of hashtags to classify more easily the content you share.
+
+Hashtags should use the CamelCase format, where words are separated by upper cases, like so: `#ThisNewHashtagIsGreat`.
+
+A list of hashtags that could be used on [ecoevo.social](https://ecoevo.social):
+
+* `#JobOffer` when posting a job offer of any kind, add more hashtags to precise level
+	`#TenureTrack`, `#Postdoc`, `#GraduateStudent`, `#Technician`, etc. and 
+	subjects `#Ecology`, `#Labwork`, `#Modeling`, etc.
+* `#Intership` to advertise an internship, precise subjects similar to job offers.
+* `#Conference` to advertise a conference.
+* ...
+
+
+## Threads
+
+When posting a thread:
+
+1. Set your first toot to be **Public** (visible for all)
+2. Answer your first toot and set the visibility to **Unlisted** (Visible for all, but opted-out of discovery features)
+3. Continue your thread and the visibility will be automatically continued as Unlisted
+
+It is nice to use the `i/n` indication at the end of your toots to better indicate this is a thread,
+where i in the current toot and n is the total number of toots (you can keep it as a litteral n if you don't know the total number of toots).
+Well you know how to do it if you come from the bird site.
+

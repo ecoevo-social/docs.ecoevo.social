@@ -3,15 +3,18 @@ project:
 
 book:
   title: "ecoevo.social-docs"
-  author: "Github contributors"
-  date: "11/4/2022"
+  author: "Alexis Simon and github contributors"
+  search: true
+  repo-url: https://github.com/alxsimon/ecoevo.social-docs/
+  repo-actions: [edit]
+  sidebar:
+    style: docked
   chapters:
     - index.qmd
     - rules.qmd
+    - etiquette.qmd
+    - how-to-contribute.qmd
 
 format:
   html:
     theme: cosmo
-
-
-

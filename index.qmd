@@ -2,8 +2,54 @@
 jupyter: python3
 ---
 
-# Preface {.unnumbered}
+Rules to respect, etiquette and general things to know about the 
+[ecoevo.social](https://ecoevo.social/) server or Mastodon in general.
 
-This is a Quarto book.
+[ecoevo.social](https://ecoevo.social/) is dedicated to the biological Ecology and Evolution community.
+This is broadly defined so everyone connected to those topics closely or more remotely are welcome.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+[ecoevo.social](https://ecoevo.social/) is administered by Alexis Simon.
+This is volunteering work, and as such it may encounter some issues along the road.
+Please be patient we are all learning here.
+
+If you are in a position to do so, you can contribute financially for the maintenance of the server
+through [Open Collective](https://opencollective.com/ecoevosocial).
+
+Enjoy connecting!
+
+## About privacy {.unnumbered}
+
+A safe internet user is an informed internet user.
+
+The [privacy policy](https://ecoevo.social/terms) indicate what will be enforced regarding privacy.
+
+:::{.callout-note}
+## Important considerations about privacy
+
+Posts on Mastodon are not end-to-end encrypted. Do not share any sensitive information over Mastodon.
+For more details, see the [privacy policy](https://ecoevo.social/terms).
+
+You must be aware that Mastodon data, both public and direct messages,
+are accessible by server operators and receiving servers 
+(for example if you send a direct message to someone on another server).
+
+Quoted from the [privacy policy](https://ecoevo.social/terms):<br>
+| We may also release your information when we believe release is appropriate to comply
+| with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+
+If you require to have truly private conversations containing sensitive information with someone else,
+we suggest you use another application offering end-to-end encryption and privacy. 
+:::
+
+## What is Mastodon? {.unnumbered}
+
+Mastodon is a federated microblogging platform.
+
+You can read more about it in its [documentation](https://docs.joinmastodon.org/).
+
+## Already existing resources {.unnumbered}
+
+* [Everything I know about Mastodon, by Danielle Navarro](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon)
+* [Mastodon documentation](https://docs.joinmastodon.org/)
+* [Maqtodon quick start guide](https://blog.joinmastodon.org/2018/08/mastodon-quick-start-guide/)
+* [A Brief Mastodon Guide for Social Media Worriers, by Per Axbom](https://axbom.com/mastodon-guide/)

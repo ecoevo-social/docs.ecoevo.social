@@ -1,2 +1,3 @@
 # ecoevo.social-docs
-Things to know about ecoevo.social
+
+Rules to respect, etiquette and general things to know about this server or Mastodon in general.

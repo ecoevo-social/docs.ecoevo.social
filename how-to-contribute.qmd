@@ -1,0 +1,25 @@
+---
+jupyter: python3
+---
+
+# How to contribute
+
+## Contributing to this documentation
+
+This is a quarto book hosted on github.
+
+To contribute, head to the github repository and open either
+an issue, a pull-request or a discussion.
+
+Documents are written in markdown, and content are in the `./*.qmd` documents.
+
+## Contributing financially to the hosting
+
+Head to [Open Collective](https://opencollective.com/ecoevosocial).
+
+## Helping moderating
+
+If you want to help protect people from this instance against external and internal misbehaviors,
+you can ask me to help moderating.
+
+Send me direct message [@alxsim@ecoevo.social](https://ecoevo.social/@alxsim) and we can chat.
