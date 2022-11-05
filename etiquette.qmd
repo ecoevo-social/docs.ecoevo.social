@@ -18,6 +18,14 @@ Content Warnings should be used for topics including, but not limited to:
 * Politics
 * Job postings: you can use the subject area as you would in an email `Subject`
 
+## Describe the media you post
+
+Description of photos and videos you post are really important
+to increase the accessibility of Mastodon to visually impaired people.
+
+When posting a media, click the edit button and
+a window will allow you to enter a description.
+
 ## Use of hashtags
 
 Hashtags are how content from users you do not follow can be discovered on Mastodon, since the text content of toots
