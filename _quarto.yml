@@ -1,0 +1,17 @@
+project:
+  type: book
+
+book:
+  title: "ecoevo.social-docs"
+  author: "Github contributors"
+  date: "11/4/2022"
+  chapters:
+    - index.qmd
+    - rules.qmd
+
+format:
+  html:
+    theme: cosmo
+
+
+

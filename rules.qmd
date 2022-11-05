@@ -1,0 +1,10 @@
+---
+jupyter: python3
+---
+
+# Rules
+
+Rules you accept to adhere to:
+
+* One
+* Two
