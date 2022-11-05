@@ -34,8 +34,8 @@ are accessible by server operators and receiving servers
 (for example if you send a direct message to someone on another server).
 
 Quoted from the [privacy policy](https://ecoevo.social/terms):<br>
-| We may also release your information when we believe release is appropriate to comply
-| with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+> We may also release your information when we believe release is appropriate to comply
+> with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
 If you require to have truly private conversations containing sensitive information with someone else,
 we suggest you use another application offering end-to-end encryption and privacy. 
