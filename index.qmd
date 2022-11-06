@@ -2,7 +2,7 @@
 title: Introduction
 ---
 
-# Introduction to ecoevo.social
+# Introduction
 
 **Rules to respect, etiquette and general things to know about the 
 [ecoevo.social](https://ecoevo.social/) server and [Mastodon](#what-is-mastodon) in general.**
