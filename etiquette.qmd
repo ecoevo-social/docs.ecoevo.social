@@ -7,13 +7,13 @@ title: Etiquette
 Content Warnings (CW) are useful to:
 
 1) protect people sensitive to a given subject from being unwillingly exposed to it,
-2) keep subjects that may not interest everyone an opt-in option, and/or 
+2) keep subjects that may not interest everyone as an opt-in option, and/or 
 3) keep timelines easier to read.
 
 Content Warnings should be used for topics including, but not limited to:
 
 * Triggering content
-	* reports or news about sexual assault, harassment, violence, racism, LGBTQIA+-phobia, burnout, etc.
+	* reports or news about sexual assault, harassment, violence, racism, antisemitism, LGBTQIA+-phobia, burnout, etc.
 * Glorification of over-working
 * Politics
 * Job postings: you can use the subject area as you would in an email `Subject`
