@@ -3,10 +3,10 @@ title: Introduction
 ---
 
 :::{.callout-note}
-This guide is under active writting and things will definitively change.
+This guide is under active development and things will definitely change over time.
 
-This is also designed to be a community built resource,
-please head to [How to contribute](./how-to-contribute.html) for more information.
+This is also designed to be a community-built resource.
+Please check out the [How to contribute](./how-to-contribute.html) page for more information.
 :::
 
 # Introduction
