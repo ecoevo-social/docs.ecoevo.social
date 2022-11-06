@@ -2,6 +2,13 @@
 title: Introduction
 ---
 
+:::{.callout-note}
+This guide is under active writting and things will definitively change.
+
+This is also designed to be a community built resource,
+please head to [How to contribute](./how-to-contribute.html) for more information.
+:::
+
 # Introduction
 
 **Rules to respect, etiquette, and general things to know about the 
