@@ -14,3 +14,5 @@ By using ecoevo.social, you agree to abide by the following rules:
 This set of rules has been copied from the mastodon.social instance.
 They are not set in stone and community-suggested changes in wording or the addition of rules is welcomed.
 See the section [How to contribute](./how-to-contribute.html).
+
+In addition to the community guidelines we put in place, the hosting service we are using, [masto.host](https://masto.host/), has its own terms of service as well. They can be found [here](https://masto.host/tos/).
