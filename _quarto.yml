@@ -3,7 +3,7 @@ project:
 
 book:
   title: "ecoevo.social-docs"
-  author: "Alexis Simon and github contributors"
+  author: <a href = https://github.com/alxsimon>Alexis Simon</a> and <a href = "https://github.com/alxsimon/ecoevo.social-docs/graphs/contributors">GitHub contributors</a>
   search: true
   repo-url: https://github.com/alxsimon/ecoevo.social-docs/
   repo-actions: [edit]
