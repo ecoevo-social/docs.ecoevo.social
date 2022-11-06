@@ -18,7 +18,7 @@ Documents are written in markdown, with each section in its respective `./*.qmd`
 
 If you would like to contribute financially to server hosting costs,
 head to [Open Collective](https://opencollective.com/ecoevosocial).
-The budget is fully transparent there.
+The budget is fully transparent there. Transactions are made using Wise.
 
 While this is not currently the case, if more money than necessary to operate the server and renew the domain name
 is collected, any additional funds will be redistributed to the community. This redistribution could occur in a number of possible ways,
