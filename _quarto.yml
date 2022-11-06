@@ -16,6 +16,7 @@ book:
     - index.qmd
     - rules.qmd
     - etiquette.qmd
+    - tips.qmd
     - how-to-contribute.qmd
 
 format:

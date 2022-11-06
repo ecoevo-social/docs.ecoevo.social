@@ -53,7 +53,7 @@ we suggest you use another application offering end-to-end encryption and privac
 
 ## What is Mastodon? {.unnumbered}
 
-Mastodon is a federated microblogging platform. You can read more about it in its [documentation](https://docs.joinmastodon.org/).
+[Mastodon](https://joinmastodon.org/) is a federated microblogging platform. You can read more about it in its [documentation](https://docs.joinmastodon.org/).
 
 ## Resources for Getting Started with Mastodon and the Fediverse {.unnumbered}
 

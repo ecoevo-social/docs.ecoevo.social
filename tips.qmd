@@ -1,0 +1,16 @@
+---
+title: Tips
+---
+
+A highlight of some [Mastodon](https://joinmastodon.org/) features and tips to improve your experience.
+
+## Alternative web interface
+
+A differrent web interface can be enabled in `Settings > Preferences > Appearance`.
+
+![](resources/images/tips-screenshot-advanced-web-interface-1.png){fig-alt="Screenshot showing the preference panel."}
+
+This will give you access to an interface like this one:
+
+![](resources/images/tips-screenshot-advanced-web-interface-2.png){fig-alt="Screenshot showing how the advanced web interface looks."}
+
