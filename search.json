@@ -4,7 +4,28 @@
     "href": "index.html",
     "title": "ecoevo.social-docs",
     "section": "",
-    "text": "Rules to respect, etiquette, and general things to know about the ecoevo.social server and Mastodon in general.\necoevo.social is a Mastodon server dedicated to the biological Ecology and Evolution community. This is broadly defined; everyone who is connected to those topics is welcome.\necoevo.social is administered by Alexis Simon. This is volunteer work, and as such there may occasionally be some issues along the road that are not resolved immediately. Please be patient if issues arise, as we are all learning together how to best develop this community and space.\nIf you are in a position to do so, you can contribute financially for the maintenance of the server through Open Collective.\nEnjoy connecting!\n\n\nA safe internet user is an informed internet user.\nThe privacy policy indicates what will be enforced regarding privacy.\n\n\n\n\n\n\nImportant considerations about privacy\n\n\n\nPosts on Mastodon are not end-to-end encrypted. Do not share any sensitive information over Mastodon. For more details, see the privacy policy.\nYou must be aware that Mastodon data, both public and direct messages, are accessible by server operators and receiving servers (for example if you send a direct message to someone on another server).\nQuoted from the privacy policy:\n\nWe may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety.\n\nIf you need to have truly private conversations with someone else that contain sensitive information, we suggest you use another application offering end-to-end encryption and privacy. One good option is Signal.\n\n\n\n\n\nMastodon is a federated microblogging platform. You can read more about it in its documentation.\n\n\n\n\nEverything I know about Mastodon, by Danielle Navarro\nMastodon documentation\nMastodon quick start guide\nA Brief Mastodon Guide for Social Media Worriers, by Per Axbom\nFedi Tips - An Unofficial Guide to Mastodon and the Fediverse"
+    "text": "Note\n\n\n\nThis guide is under active writting and things will definitively change.\nThis is also designed to be a community built resource, please head to How to contribute for more information."
+  },
+  {
+    "objectID": "index.html#about-privacy",
+    "href": "index.html#about-privacy",
+    "title": "ecoevo.social-docs",
+    "section": "About privacy",
+    "text": "About privacy\nA safe internet user is an informed internet user.\nThe privacy policy indicates what will be enforced regarding privacy.\n\n\n\n\n\n\nImportant considerations about privacy\n\n\n\nPosts on Mastodon are not end-to-end encrypted. Do not share any sensitive information over Mastodon. For more details, see the privacy policy.\nYou must be aware that Mastodon data, both public and direct messages, are accessible by server operators and receiving servers (for example if you send a direct message to someone on another server).\nQuoted from the privacy policy:\n\nWe may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety.\n\nIf you need to have truly private conversations with someone else that contain sensitive information, we suggest you use another application offering end-to-end encryption and privacy. One good option is Signal."
+  },
+  {
+    "objectID": "index.html#what-is-mastodon",
+    "href": "index.html#what-is-mastodon",
+    "title": "ecoevo.social-docs",
+    "section": "What is Mastodon?",
+    "text": "What is Mastodon?\nMastodon is a federated microblogging platform. You can read more about it in its documentation."
+  },
+  {
+    "objectID": "index.html#resources-for-getting-started-with-mastodon-and-the-fediverse",
+    "href": "index.html#resources-for-getting-started-with-mastodon-and-the-fediverse",
+    "title": "ecoevo.social-docs",
+    "section": "Resources for Getting Started with Mastodon and the Fediverse",
+    "text": "Resources for Getting Started with Mastodon and the Fediverse\n\nEverything I know about Mastodon, by Danielle Navarro\nMastodon documentation\nMastodon quick start guide\nA Brief Mastodon Guide for Social Media Worriers, by Per Axbom\nFedi Tips - An Unofficial Guide to Mastodon and the Fediverse"
   },
   {
     "objectID": "rules.html",
