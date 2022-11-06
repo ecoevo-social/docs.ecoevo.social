@@ -37,7 +37,7 @@ Given that consideration, we encourage the use of hashtags to classify and broad
 Hashtags should use the CamelCase format, where words are separated by upper cases, like so: `#ThisNewHashtagIsGreat`.
 This can aid in their readability both by people and by screen readers.
 
-A list of hashtags that could be used on [ecoevo.social](https://ecoevo.social):
+A list of hashtags that could be used on [ecoevo.social](https://ecoevo.social/about):
 
 * `#JobOffer` when posting a job offer of any kind, add more hashtags to precise level
 	`#TenureTrack`, `#Postdoc`, `#GraduateStudent`, `#Technician`, etc. and 

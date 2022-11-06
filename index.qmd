@@ -5,12 +5,12 @@ title: Introduction
 # Introduction
 
 **Rules to respect, etiquette and general things to know about the 
-[ecoevo.social](https://ecoevo.social/) server and [Mastodon](#what-is-mastodon) in general.**
+[ecoevo.social](https://ecoevo.social/about) server and [Mastodon](#what-is-mastodon) in general.**
 
-[ecoevo.social](https://ecoevo.social/) is a Mastodon server dedicated to the biological Ecology and Evolution community.
+[ecoevo.social](https://ecoevo.social/about) is a Mastodon server dedicated to the biological Ecology and Evolution community.
 This is broadly defined; everyone who is connected to those topics is welcome.
 
-[ecoevo.social](https://ecoevo.social/) is administered by [Alexis Simon](https://ecoevo.social/@alxsim).
+[ecoevo.social](https://ecoevo.social/about) is administered by [Alexis Simon](https://ecoevo.social/@alxsim).
 This is volunteer work, and as such there may occasionally be some issues along the road that are not resolved immediately.
 Please be patient if issues arise, as we are all learning together how to best develop this community and space.
 
