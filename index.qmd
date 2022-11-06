@@ -4,7 +4,7 @@ title: Introduction
 
 # Introduction
 
-**Rules to respect, etiquette and general things to know about the 
+**Rules to respect, etiquette, and general things to know about the 
 [ecoevo.social](https://ecoevo.social/about) server and [Mastodon](#what-is-mastodon) in general.**
 
 [ecoevo.social](https://ecoevo.social/about) is a Mastodon server dedicated to the biological Ecology and Evolution community.
