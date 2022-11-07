@@ -63,45 +63,66 @@
     "text": "3.4 Threads\nWhen posting a thread:\n\nSet your first toot to be Public (visible for all)\nThen, reply to your first toot and set the visibility to Unlisted (visible for all, but opted-out of discovery features)\nContinue your thread and the visibility will automatically continue to be set as Unlisted unless you change it\n\nIt is considerate to use the i/n indication at the end of your toots to better indicate this is a thread, where i is the number of the current toot in the thread and n is the total number of toots. You can keep it as a literal n if you don’t know the total number of toots. This approach is similar to the convention people use at the bird site."
   },
   {
+    "objectID": "staying-safe.html",
+    "href": "staying-safe.html",
+    "title": "4  Staying safe",
+    "section": "",
+    "text": "Note\n\n\n\nUnder construction"
+  },
+  {
+    "objectID": "staying-safe.html#how-to-report-someone",
+    "href": "staying-safe.html#how-to-report-someone",
+    "title": "4  Staying safe",
+    "section": "4.1 How to report someone",
+    "text": "4.1 How to report someone"
+  },
+  {
     "objectID": "tips.html",
     "href": "tips.html",
-    "title": "4  Tips",
+    "title": "5  Tips",
     "section": "",
-    "text": "A highlight of some Mastodon features and tips to improve your experience."
+    "text": "A highlight of some useful tips and Mastodon features to improve your experience."
+  },
+  {
+    "objectID": "tips.html#finding-your-network",
+    "href": "tips.html#finding-your-network",
+    "title": "5  Tips",
+    "section": "5.1 Finding your network",
+    "text": "5.1 Finding your network\nWhether your are migrating from Twitter or not, here is a list of useful tools that can help you finding people you would like to connect with.\n\nFinding people by topic:\n\nfediverse.info\nfedi.directory\ntrunk\n\nUse your Twitter information to search for people on Mastodon:\n\nfedifinder\ndebirdify\ntwitodon"
   },
   {
     "objectID": "tips.html#alternative-web-interface",
     "href": "tips.html#alternative-web-interface",
-    "title": "4  Tips",
-    "section": "4.1 Alternative web interface",
-    "text": "4.1 Alternative web interface\nA differrent web interface can be enabled in Settings > Preferences > Appearance.\n\nThis will give you access to an interface like this one:"
+    "title": "5  Tips",
+    "section": "5.2 Alternative web interface",
+    "text": "5.2 Alternative web interface\nA differrent web interface can be enabled in Settings > Preferences > Appearance.\n\nThis will give you access to an interface like this one:"
   },
   {
     "objectID": "tips.html#keyboard-shortcuts",
     "href": "tips.html#keyboard-shortcuts",
-    "title": "4  Tips",
-    "section": "4.2 Keyboard shortcuts",
-    "text": "4.2 Keyboard shortcuts\nIf you like keyboard shortcuts, the web interface have hotkeys that can be found here.\nThis link can be opened from the bottom of the side panel by clicking on Hotkeys."
+    "title": "5  Tips",
+    "section": "5.3 Keyboard shortcuts",
+    "text": "5.3 Keyboard shortcuts\nIf you like keyboard shortcuts, the web interface have hotkeys that can be found here.\nThis link can be opened from the bottom of the side panel by clicking on Hotkeys."
   },
   {
     "objectID": "how-to-contribute.html",
     "href": "how-to-contribute.html",
-    "title": "5  Contributing",
+    "title": "6  Contributing",
     "section": "",
     "text": "This documentation is being developed as a Quarto book hosted on GitHub.\nTo contribute, head to the GitHub repository and open either:\n\nan issue\na pull-request\nor start a discussion\n\nDocuments are written in markdown, with each section in its respective ./*.qmd document."
   },
   {
     "objectID": "how-to-contribute.html#contributing-financially-to-server-costs",
     "href": "how-to-contribute.html#contributing-financially-to-server-costs",
-    "title": "5  Contributing",
-    "section": "5.2 Contributing financially to server costs",
-    "text": "5.2 Contributing financially to server costs\nIf you would like to contribute financially to server hosting costs, head to Open Collective. The budget is fully transparent there. Transactions are made using Alexis Simon’s Wise account and using the Stripe card payment service.\nWhile this is not currently the case, if more money than necessary to operate the server and renew the domain name is collected, any additional funds will be redistributed to the community. This redistribution could occur in a number of possible ways, including via possible initiatives like a “best student science communication toot” competition/prize."
+    "title": "6  Contributing",
+    "section": "6.2 Contributing financially to server costs",
+    "text": "6.2 Contributing financially to server costs\nIf you would like to contribute financially to server hosting costs, head to Open Collective. The budget is fully transparent there. Transactions are made using Alexis Simon’s Wise account and using the Stripe card payment service.\nWhile this is not currently the case, if more money than necessary to operate the server and renew the domain name is collected, any additional funds will be redistributed to the community. This redistribution could occur in a number of possible ways, including via possible initiatives like a “best student science communication toot” competition/prize."
   },
   {
     "objectID": "how-to-contribute.html#contributing-to-server-moderation",
     "href": "how-to-contribute.html#contributing-to-server-moderation",
-    "title": "5  Contributing",
-    "section": "5.3 Contributing to server moderation",
-    "text": "5.3 Contributing to server moderation\nIf you want to help protect people using this instance from internal and/or external misbehaviors, you can ask me, Alexis Simon, to help contribute to moderating.\nTo do so, send a direct message via @alxsim@ecoevo.social and we can chat."
+    "title": "6  Contributing",
+    "section": "6.3 Contributing to server moderation",
+    "text": "6.3 Contributing to server moderation\nIf you want to help protect people using this instance from internal and/or external misbehaviors, you can ask me, Alexis Simon, to help contribute to moderating.\nTo do so, send a direct message via @alxsim@ecoevo.social and we can chat."
   }
 ]
