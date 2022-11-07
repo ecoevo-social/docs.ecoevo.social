@@ -2,7 +2,24 @@
 title: Tips
 ---
 
-A highlight of some [Mastodon](https://joinmastodon.org/) features and tips to improve your experience.
+A highlight of some useful tips and
+[Mastodon](https://joinmastodon.org/) features
+to improve your experience.
+
+## Finding your network
+
+Whether your are migrating from Twitter or not,
+here is a list of useful tools that can help you finding people you
+would like to connect with.
+
+* Finding people by topic:
+	* [fediverse.info](https://fediverse.info/explore/people)
+	* [fedi.directory](https://fedi.directory/)
+	* [trunk](https://communitywiki.org/trunk)
+* Use your Twitter information to search for people on Mastodon:
+	* [fedifinder](https://fedifinder.glitch.me/)
+	* [debirdify](https://pruvisto.org/debirdify/)
+	* [twitodon](https://twitodon.com/)
 
 ## Alternative web interface
 
