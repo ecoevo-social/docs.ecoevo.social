@@ -14,3 +14,10 @@ This will give you access to an interface like this one:
 
 ![](resources/images/tips-screenshot-advanced-web-interface-2.png){fig-alt="Screenshot showing how the advanced web interface looks."}
 
+## Keyboard shortcuts
+
+If you like keyboard shortcuts,
+the web interface have hotkeys that can be found
+[here](https://ecoevo.social/web/keyboard-shortcuts).
+
+This link can be opened from the bottom of the side panel by clicking on `Hotkeys`.
