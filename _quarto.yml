@@ -19,6 +19,7 @@ book:
     - staying-safe.qmd
     - tips.qmd
     - how-to-contribute.qmd
+    - contacts.qmd
 
 format:
   html:

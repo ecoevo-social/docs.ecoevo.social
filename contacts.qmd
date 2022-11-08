@@ -1,0 +1,20 @@
+
+# Contacts {.unnumbered}
+
+Current Admins:
+
+* Alexis Simon, [@alxsim](https://ecoevo.social/@alxsim)
+
+Current moderators:
+
+* Naupaka Zimmerman, [@naupaka](https://ecoevo.social/@naupaka)
+* weecology, [@weecology](https://ecoevo.social/@weecology),
+	managed by [Ethan White](https://mastodon.social/@ethanwhite) and [Morgan Ernest](https://mastodon.social/@skmorgane)
+* Nicolas Bierne, [@couplingdmi](https://mastodon.social/@couplingdmi)
+* Erinne Stirling, [@DrErinne](https://ecoevo.social/@DrErinne)
+* Clare Venney, [@ClareVenney](https://ecoevo.social/@ClareVenney)
+
+Alexis Simon can be reached by [email](mailto:ecoevo.social@gmail.com).
+
+In case of server failure or prolonged downtime,
+Alexis will try to post information on a different server [@ecoevosocial@fediscience.org](https://fediscience.org/@ecoevosocial).
