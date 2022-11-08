@@ -21,6 +21,22 @@ would like to connect with.
 	* [debirdify](https://pruvisto.org/debirdify/)
 	* [twitodon](https://twitodon.com/)
 
+
+## Other science related instances
+
+A non-exhaustive list of science and education related instances:
+
+* [genomic.social](https://genomic.social/about), "A Mastodon server for the Genomic Science Community"
+* [mstdn.science](https://mstdn.science/about), microbiology, scientists in general and science enthusiasts
+* [fediscience.org](https://fediscience.org/about), "Fediscience is the social network for scientists"
+* [scholar.social](https://scholar.social/about), "anyone involved in academia"
+* [tech.lgbt](https://tech.lgbt/about), "tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies."
+* [mathstodon.xyz](https://mathstodon.xyz/about), for maths people, with LaTeX rendering
+* [scicomm.xyz](https://scicomm.xyz/about), "for science students, communicators, and enthusiasts ... and scientists!"
+* [red.niboe.info](https://red.niboe.info/about), "para generadores de conocimiento. Lenguajes: Español, Português, otras lenguas nuestroamericanas."
+
+Don't hesitate to increase this list through [contribution](./how-to-contribute.qmd/#contributing-to-this-documentation).
+
 ## Alternative web interface
 
 A differrent web interface can be enabled in `Settings > Preferences > Appearance`.
