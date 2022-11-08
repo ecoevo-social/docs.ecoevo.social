@@ -35,7 +35,7 @@ A non-exhaustive list of science and education related instances:
 * [scicomm.xyz](https://scicomm.xyz/about), "for science students, communicators, and enthusiasts ... and scientists!"
 * [red.niboe.info](https://red.niboe.info/about), "para generadores de conocimiento. Lenguajes: Español, Português, otras lenguas nuestroamericanas."
 
-Don't hesitate to increase this list through [contribution](./how-to-contribute.qmd/#contributing-to-this-documentation).
+Don't hesitate to increase this list through [contribution](./how-to-contribute.html#contributing-to-this-documentation).
 
 ## Alternative web interface
 
