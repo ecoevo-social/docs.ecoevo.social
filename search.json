@@ -91,18 +91,25 @@
     "text": "5.1 Finding your network\nWhether you are migrating from Twitter or not, here is a list of useful tools that can help you find people you would like to connect with.\n\nFinding people by topic:\n\nfediverse.info\nfedi.directory\ntrunk\n\nUse your Twitter information to search for people on Mastodon:\n\nfedifinder\ndebirdify\ntwitodon"
   },
   {
+    "objectID": "tips.html#other-science-related-instances",
+    "href": "tips.html#other-science-related-instances",
+    "title": "5  Tips",
+    "section": "5.2 Other science related instances",
+    "text": "5.2 Other science related instances\nA non-exhaustive list of science and education related instances:\n\ngenomic.social, “A Mastodon server for the Genomic Science Community”\nmstdn.science, microbiology, scientists in general and science enthusiasts\nfediscience.org, “Fediscience is the social network for scientists”\nscholar.social, “anyone involved in academia”\ntech.lgbt, “tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies.”\nmathstodon.xyz, for maths people, with LaTeX rendering\nscicomm.xyz, “for science students, communicators, and enthusiasts … and scientists!”\nred.niboe.info, “para generadores de conocimiento. Lenguajes: Español, Português, otras lenguas nuestroamericanas.”\n\nDon’t hesitate to increase this list through contribution."
+  },
+  {
     "objectID": "tips.html#alternative-web-interface",
     "href": "tips.html#alternative-web-interface",
     "title": "5  Tips",
-    "section": "5.2 Alternative web interface",
-    "text": "5.2 Alternative web interface\nA differrent web interface can be enabled in Settings > Preferences > Appearance.\n\nThis will give you access to an interface like this one:"
+    "section": "5.3 Alternative web interface",
+    "text": "5.3 Alternative web interface\nA differrent web interface can be enabled in Settings > Preferences > Appearance.\n\nThis will give you access to an interface like this one:"
   },
   {
     "objectID": "tips.html#keyboard-shortcuts",
     "href": "tips.html#keyboard-shortcuts",
     "title": "5  Tips",
-    "section": "5.3 Keyboard shortcuts",
-    "text": "5.3 Keyboard shortcuts\nIf you like keyboard shortcuts, the web interface has hotkeys that can be found here.\nThis link can be opened from the bottom of the side panel by clicking on Hotkeys."
+    "section": "5.4 Keyboard shortcuts",
+    "text": "5.4 Keyboard shortcuts\nIf you like keyboard shortcuts, the web interface has hotkeys that can be found here.\nThis link can be opened from the bottom of the side panel by clicking on Hotkeys."
   },
   {
     "objectID": "how-to-contribute.html",
