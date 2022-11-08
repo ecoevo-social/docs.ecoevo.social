@@ -21,6 +21,8 @@ would like to connect with.
 	* [debirdify](https://pruvisto.org/debirdify/)
 	* [twitodon](https://twitodon.com/)
 
+You can also use [Guppe groups](https://a.gup.pe/) to follow posts from whole groups of people.
+Briefly, you can follow a topic group account and post to this group by @'ing the group account.
 
 ## Other science related instances
 
