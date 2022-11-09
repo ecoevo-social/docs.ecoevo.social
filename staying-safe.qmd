@@ -53,8 +53,9 @@ quickly see the reason of the report, even if it seems obvious to you.
 Moderators will be notified and will take action on your report as soon as possible.
 Please be patient as the team behind do this on their own time.
 
-No notification is sent to the other user that you reported them or on of their toot.
-Reports should be used as often as necessary to ensure the 
+No notification is sent to the other user that you reported them or or their post.
+
+Reports should be used as often as necessary to ensure the server stays a welcoming space.
 
 ## Account Security and privacy
 
