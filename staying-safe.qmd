@@ -2,10 +2,6 @@
 title: Staying safe
 ---
 
-:::{.callout-note}
-Under construction
-:::
-
 ## Protecting yourself and others
 
 ### Set filters
@@ -101,10 +97,10 @@ Highlight of some privacy related parameters and where to find them.
 
 ### Right to oblivion
 
-Posts can be made to disapear after a certain age threshold (of the post, not yours :grin:).
+Posts can be made to disapear after a certain age threshold (of the post, not yours!).
 
-You can go to `Preferences > Automatic post deletion` for a set of granular settings
-on when and which posts will be deleted.
+You can go to `Preferences > Automated post deletion` 
+where you will find a set of granular settings on when and which posts will be deleted.
 
-![](staying-safe-screenshot-post-deletion.png)
+![](./resources/images/staying-safe-screenshot-post-deletion.png)
 
