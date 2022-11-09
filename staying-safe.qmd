@@ -12,7 +12,7 @@ you have the option to set-up filters.
 Go to `Preferences > Filters > Add new filter`.
 
 There you can choose a keyword or phrase to exclude from
-'Home and lists', 'Notifications', 'Public timelines', 'Conversations', and/or 'Profiles',
+'Home and lists', 'Notifications', 'Public timelines', 'Conversations', and/or 'Profiles'.
 
 ### Block or mute
 
@@ -20,13 +20,13 @@ To block or mute a user, click on the Menu button (three dots) on their toot or 
 and select `mute @...` or `block @...`.
 
 Blocking a user will stop any possible interaction with you.
-The blocked user will not be notified and will be removed of your followers.
+The blocked user will not be notified and will be removed from your followers.
 Blocking stops the blocked user to see your toots when they are logged-in.
 Nonetheless, be aware that they can bypass this last functionality by
 seing your profile in a non-logged view, or by using another account.
 
-Muting a user will only avoid you to see their toots unless they tag you.
-They will still be able to see yours and interact with them.
+Muting a user will avoid you to see their toots, unless they tag you.
+They will still be able to see your posts and interact with them.
 Muted users don't have a way to know they have been muted.
 
 ### Report toots or users
@@ -56,6 +56,18 @@ Please be patient as the team behind do this on their own time.
 No notification is sent to the other user that you reported them or or their post.
 
 Reports should be used as often as necessary to ensure the server stays a welcoming space.
+
+### Ask for a domain ban
+
+Entire servers can be limited or banned interacting with our server.
+This is useful for example to filter hate speech, spam,
+or inapropriate content servers.
+
+We will try to block those as we go based on known lists or
+through user reports.
+However if you notice one of those servers,
+don't hesitate to [contact](./contacts.html) us so that we can take action.
+
 
 ## Account Security and privacy
 
