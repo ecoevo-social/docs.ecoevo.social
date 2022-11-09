@@ -43,11 +43,11 @@ This can aid in their readability both by people and by screen readers.
 A list of hashtags that could be used on [ecoevo.social](https://ecoevo.social/about):
 
 * `#JobOffer` when posting a job offer of any kind, add more hashtags to precise level
-	`#TenureTrack`, `#Postdoc`, `#GraduateStudent`, `#Technician`, etc. and 
-	subjects `#Ecology`, `#Labwork`, `#Modeling`, etc.
+	`#Faculty`, `#Postdoc`, `#PhdPosition`, `#Technician`, etc.; and 
+	subjects such as `#Ecology`, `#Labwork`, or `#Modeling`
 * `#Internship` to advertise an internship, precise subjects similar to job offers
 * `#Conference` to advertise a conference
-* `#Preprint`, `#JournalArticle`, etc. for new research results
+* `NewPaper` or `#Preprint` for new research results
 * `#rstats` or `#python` or other languages for coding questions or resources
 
 ## Threads
