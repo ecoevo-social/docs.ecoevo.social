@@ -82,6 +82,7 @@ and follow the instructions.
 ### Toot privacy levels
 
 Four privacy levels exists for your toots:
+
 * Public
 * Unlisted, not visible on timeline
 * Private, visible only by followers
