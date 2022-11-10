@@ -4,10 +4,13 @@ title: Etiquette
 
 ## Use of Content Warnings
 
-Content Warnings (CW) are useful to:
+Content Warnings (CW) hide parts of toots, 
+can be opened with the click of a button, 
+and individual users can set CWs to open by default. 
+CW are useful to:
 
-1) protect people sensitive to a given subject from being unwillingly exposed to it,
-2) keep subjects that may not interest everyone as an opt-in option, and/or 
+1) Empower readers who are sensitive to particular subjects to actively decide when to engage with those subjects,
+2) keep subjects that may not interest everyone as an opt-in option, and/or
 3) keep timelines easier to read.
 
 Content Warnings should be used for topics including, but not limited to:
@@ -15,8 +18,21 @@ Content Warnings should be used for topics including, but not limited to:
 * Triggering content
 	* reports or news about sexual assault, harassment, violence, racism, antisemitism, LGBTQIA+-phobia, burnout, etc.
 * Glorification of over-working
-* Politics
-* Job postings: you can use the subject area as you would in an email `Subject`
+* Common phobia-triggering animal media (e.g. spiders, snakes, sharks). 
+
+CWs are a useful tool for managing your content.
+You can use CWs when posting about material you think might not
+be of broad interest or might take too much visual space.
+For example, job postings will primarily be of interest
+to folks looking for that particular job,
+so you could use a CW to give the general job type/title and let
+interested readers expand the post to see more details (see also [use of hashtags](#use-of-hashtags)). 
+
+In this context it can be helpful to think of CW as
+representing "Content Wrap" rather than Content Warning. 
+
+**Please also read [Regarding attempts to abuse these anti-abuse tools and policies](./rules.html#rules-abuse-callout).**
+
 
 ## Describe the media you post
 
