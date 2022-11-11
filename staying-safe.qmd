@@ -21,11 +21,11 @@ and select `mute @...` or `block @...`.
 
 Blocking a user will stop any possible interaction with you.
 The blocked user will not be notified and will be removed from your followers.
-Blocking stops the blocked user to see your toots when they are logged-in.
+Blocking stops the blocked user from seeing your toots when they are signed in.
 Nonetheless, be aware that they can bypass this last functionality by
-seing your profile in a non-logged view, or by using another account.
+seing your profile in a public (not signed in) view, or by using another account.
 
-Muting a user will avoid you to see their toots, unless they tag you.
+Muting a user will remove their toots from your timelines, unless they tag you.
 They will still be able to see your posts and interact with them.
 Muted users don't have a way to know they have been muted.
 
@@ -44,29 +44,30 @@ This action will open a reporting window where you can can choose between the fo
 * It violates server rules
 * It's something else
 
-Then you can select none or several toots of the user related to the issue
-that will be added to the report.
+Then you can select none or several toots from the user related to the issue; 
+these will be added to the report.
 
 Please ensure you add an additional comment at the end of your report to help moderators
-quickly see the reason of the report, even if it seems obvious to you.
+understand the reason for the report. Please do this even if it seems obvious to you.
 
-Moderators will be notified and will take action on your report as soon as possible.
-Please be patient as the team behind do this on their own time.
+Moderators will be notified and will take action on your report as soon as they are able.
+Please be patient as the volunteer moderation team on this instance do this on their own time.
 
-No notification is sent to the other user that you reported them or or their post.
+No notification is sent to the other user that you reported them or their post.
 
 Reports should be used as often as necessary to ensure the server stays a welcoming space.
 
 ### Ask for a domain ban
 
-Entire servers can be limited or banned interacting with our server.
-This is useful for example to filter hate speech, spam,
-or inapropriate content servers.
+Entire servers can be limited or banned from interacting with our server.
+This is useful in order to, for example, filter servers that are full of hate speech, spam,
+or inappropriate content.
 
-We will try to block those as we go based on known lists or
+We will try to block those as we go based on known lists of such server or
 through user reports.
-However if you notice one of those servers,
-don't hesitate to [contact](./contacts.html) us so that we can take action.
+However, if you notice one of those servers that is not blocked (because it is new
+or because we missed it), you can ask for a domain ban.
+Don't hesitate to [contact](./contacts.html) us so that we can take action.
 
 
 ## Account Security and privacy
@@ -74,7 +75,7 @@ don't hesitate to [contact](./contacts.html) us so that we can take action.
 ### Two-Factor authentication (2FA)
 
 This mechanism improves the security of your account by requiring a
-code from another device.
+code from another device in order to log in.
 
 To enable 2FA, go to `Preferences > Account > Two-factor Auth`
 and follow the instructions.
@@ -89,32 +90,33 @@ Four privacy levels exists for your toots:
 * Direct, visible only by mentioned users
 
 :::{.callout-warning}
-In direct messages, even if not initially in the conversation
-a tagged user will be added as a direct recipient of the conversation.
-Be mindful of this scenario.
+In direct messages, even if not initially in the conversation,
+a tagged user can be added later as a direct participant of the conversation.
+Be mindful of this scenario. Please also note that these messages are not 
+end-to-end encrypted.
 :::
 
 ### Privacy settings
 
-Highlight of some privacy related parameters and where to find them.
+Here are a few privacy related parameters and where to find them:
 
 * Manually control who can follow you by approving follow requests<br>
 	`Preferences > Profile > Appearance > [ ] Require follow requests`
 * Hide your follows and followers<br>
 	`Preferences > Profile > Appearance > [ ] Hide your social graph`
-* Avoid being included in search engine
+* Avoid being included in search engine results<br>
 	`Preferences > Preferences > Other > [ ] Opt-out of search engine indexing`
-* Posting privacy default
+* Set a default for the privacy level of your toots<br>
 	`Preferences > Preferences > Other > Posting privacy`, Public, Unlisted or Followers-only
-* Display or not the application used to post
+* Hide (or disclose) the application used to post<br>
 	`Preferences > Preferences > Other > [ ] Disclose application used to send posts`
 
-### Right to oblivion
+### Automated deletion of your posts
 
 Posts can be made to disapear after a certain age threshold (of the post, not yours!).
 
 You can go to `Preferences > Automated post deletion` 
-where you will find a set of granular settings on when and which posts will be deleted.
+where you will find a set of granular settings to control which posts will be deleted and when.
 
 ![](./resources/images/staying-safe-screenshot-post-deletion.png)
 

@@ -14,7 +14,7 @@ By using ecoevo.social, you agree to abide by the following rules:
 ::: {.callout-warning}
 ## Regarding attempts to abuse these anti-abuse tools and policies {#rules-abuse-callout}
 
-Following the [Scholar Social community’s guidlines](https://scholar.social/about/more#regarding-attempts-to-abuse-these-anti-abuse-tools-and-policies):
+Following the [Scholar Social community’s guidelines](https://scholar.social/about/more#regarding-attempts-to-abuse-these-anti-abuse-tools-and-policies):
 
 > “Do not attempt to weaponize our Community Standards or anti-abuse tools/policies against marginalized groups
 > such as people of colour, women or queer people. Users of [ecoevo.social] are expected to have the literacy to
@@ -26,7 +26,7 @@ Following the [Scholar Social community’s guidlines](https://scholar.social/ab
 :::
 
 
-They are not set in stone and community-suggested changes in wording or the addition of rules is welcomed.
+These rules are not set in stone and community-suggested changes in wording or the addition of rules is welcomed.
 See the section [How to contribute](./how-to-contribute.html).
 
 In addition to the community guidelines we put in place, the hosting service we are using, [masto.host](https://masto.host/), has its own terms of service as well. They can be found [here](https://masto.host/tos/).
