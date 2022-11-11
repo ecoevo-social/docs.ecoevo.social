@@ -52,6 +52,8 @@ understand the reason for the report. Please do this even if it seems obvious to
 
 Moderators will be notified and will take action on your report as soon as they are able.
 Please be patient as the volunteer moderation team on this instance do this on their own time.
+Actions available to moderators and their consequences are listed in the
+[Mastodon documentation](https://docs.joinmastodon.org/admin/moderation/).
 
 No notification is sent to the other user that you reported them or their post.
 
