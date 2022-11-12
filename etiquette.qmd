@@ -60,7 +60,7 @@ A list of hashtags that could be used on [ecoevo.social](https://ecoevo.social/a
 
 * `#JobOffer` when posting a job offer of any kind, add more hashtags to precise level
 	`#Faculty`, `#Postdoc`, `#PhdPosition`, `#Technician`, etc.; and 
-	subjects such as `#Ecology`, `#Labwork`, or `#Modeling`
+	subjects such as `#Ecology`, `#Labwork`, or `#Modeling`. See [Job postings section](#job-postings).
 * `#Internship` to advertise an internship, precise subjects similar to job offers
 * `#Conference` to advertise a conference
 * `NewPaper` or `#Preprint` for new research results
@@ -68,11 +68,24 @@ A list of hashtags that could be used on [ecoevo.social](https://ecoevo.social/a
 
 ## Job postings
 
-When posting job offers:
+When posting job offers keep in mind that the search tool is only using hashtags,
+it is therefore the most important part of your posting.
 
-1) Use `CW` on your post with a summary subject line,
-1) use [hashtags](#use-of-hashtags), starting by `#JobOffer` and adding specific ones,
-1) finish by tagging any relevant group(s), such as `@jobofferecoevo@a.gup.pe` if your offer is in `#EcoEvo`.
+Try to follow these guidelines:
+
+1) Use [hashtags](#use-of-hashtags), always use `#JobOffer` and a set of [standardized hashtags](#job-standardized-hashtags),
+1) use `CW` on your post with a summary subject line,
+1) optionally, finish by tagging any relevant group(s) such as `@jobofferecoevo@a.gup.pe` if your offer is in `#EcoEvo`.
+
+
+#### Example of job standardized hashtags: {#job-standardized-hashtags}
+
+* Always use: `#JobOffer`
+* Level/Type: `#phd`, `#postdoc`, `#TenureTrack`, `#lectureship`, `#fellowship`, `#master`, ...
+* Main field: `#ecology`, `#evolution`, `#genomics`, ... 
+* Subject-related keywords, for example: `#birds`, `#disease`, `#biodiversity`, ...
+* Country: `#France`, `#USA`, `#Germany`, ...
+
 
 ## Threads
 
