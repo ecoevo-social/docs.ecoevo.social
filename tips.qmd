@@ -28,9 +28,9 @@ Briefly, all posts that contains the `@GroupHandle@a.gup.pe` handle will be seen
 
 Here are some groups of interest to the community that you can interact with:
 
-* [phdstudents@a.gup.pe](https://a.gup.pe/u/phdstudents)
-* [academicchatter@a.gup.pe](https://a.gup.pe/u/academicchatter)
-* [jobofferecoevo@a.gup.pe](https://a.gup.pe/u/jobofferecoevo)
+* [`@phdstudents@a.gup.pe`](https://a.gup.pe/u/phdstudents)
+* [`@academicchatter@a.gup.pe`](https://a.gup.pe/u/academicchatter)
+* [`@jobofferecoevo@a.gup.pe`](https://a.gup.pe/u/jobofferecoevo)
 
 ## Other science related instances
 

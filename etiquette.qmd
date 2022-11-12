@@ -66,6 +66,14 @@ A list of hashtags that could be used on [ecoevo.social](https://ecoevo.social/a
 * `NewPaper` or `#Preprint` for new research results
 * `#rstats` or `#python` or other languages for coding questions or resources
 
+## Job postings
+
+When posting job offers:
+
+1) Use `CW` on your post with a summary subject line,
+1) use [hashtags](#use-of-hashtags), starting by `#JobOffer` and adding specific ones,
+1) finish by tagging any relevant group(s), such as `@jobofferecoevo@a.gup.pe` if your offer is in `#EcoEvo`.
+
 ## Threads
 
 When posting a thread:
