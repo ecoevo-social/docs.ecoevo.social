@@ -63,6 +63,13 @@
     "text": "Use of hashtags\nHashtags are how content from users you do not follow can be discovered on Mastodon, since the text content of toots is generally not searchable (in most cases anyway; in all cases it requires additional algorithms/software/infrastructure to do so).\nGiven that consideration, we encourage the use of hashtags to classify and broaden the potential reach of the content you share.\nHashtags should use the CamelCase format, where words are separated by upper cases, like so: #ThisNewHashtagIsGreat. This can aid in their readability both by people and by screen readers.\nA list of hashtags that could be used on ecoevo.social:\n\n#JobOffer when posting a job offer of any kind, add more hashtags to precise level #Faculty, #Postdoc, #PhdPosition, #Technician, etc.; and subjects such as #Ecology, #Labwork, or #Modeling\n#Internship to advertise an internship, precise subjects similar to job offers\n#Conference to advertise a conference\nNewPaper or #Preprint for new research results\n#rstats or #python or other languages for coding questions or resources"
   },
   {
+    "objectID": "etiquette.html#job-postings",
+    "href": "etiquette.html#job-postings",
+    "title": "Etiquette",
+    "section": "Job postings",
+    "text": "Job postings\nWhen posting job offers:\n\nUse CW on your post with a summary subject line,\nuse hashtags, starting by #JobOffer and adding specific ones,\nfinish by tagging any relevant group(s), such as @jobofferecoevo@a.gup.pe if your offer is in #EcoEvo."
+  },
+  {
     "objectID": "etiquette.html#threads",
     "href": "etiquette.html#threads",
     "title": "Etiquette",
@@ -102,7 +109,7 @@
     "href": "tips.html#information-and-topic-groups",
     "title": "Tips",
     "section": "Information and topic groups",
-    "text": "Information and topic groups\nYou can use Guppe groups to follow posts from whole groups of people. Briefly, all posts that contains the @GroupHandle@a.gup.pe handle will be seen by group followers.\nHere are some groups of interest to the community that you can interact with:\n\nphdstudents@a.gup.pe\nacademicchatter@a.gup.pe\njobofferecoevo@a.gup.pe"
+    "text": "Information and topic groups\nYou can use Guppe groups to follow posts from whole groups of people. Briefly, all posts that contains the @GroupHandle@a.gup.pe handle will be seen by group followers.\nHere are some groups of interest to the community that you can interact with:\n\n@phdstudents@a.gup.pe\n@academicchatter@a.gup.pe\n@jobofferecoevo@a.gup.pe"
   },
   {
     "objectID": "tips.html#other-science-related-instances",
