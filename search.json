@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "ecoevo.social-docs",
     "section": "",
-    "text": "Note\n\n\n\nThis guide is under active development and things will definitely change over time.\nThis is also designed to be a community-built resource. Please check out the How to contribute page for more information."
+    "text": "Note\n\n\n\nThis guide is under active development and things will definitely change over time.\nThis is also designed to be a community-built resource. Please check out the Contributing page for more information."
+  },
+  {
+    "objectID": "index.html#what-is-mastodon",
+    "href": "index.html#what-is-mastodon",
+    "title": "ecoevo.social-docs",
+    "section": "What is Mastodon?",
+    "text": "What is Mastodon?\nMastodon is a federated microblogging platform. You can read more about it in its documentation."
   },
   {
     "objectID": "index.html#about-privacy",
@@ -14,11 +21,11 @@
     "text": "About privacy\nA safe internet user is an informed internet user.\nThe privacy policy indicates what will be enforced regarding privacy.\n\n\n\n\n\n\nImportant considerations about privacy\n\n\n\nPosts on Mastodon are not end-to-end encrypted. Do not share any sensitive information over Mastodon. For more details, see the privacy policy.\nYou must be aware that Mastodon data, both public and direct messages, are accessible by server operators and receiving servers (for example if you send a direct message to someone on another server).\nQuoted from the privacy policy:\n\nWe may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety.\n\nIf you need to have truly private conversations with someone else that contain sensitive information, we suggest you use another application offering end-to-end encryption and privacy. One good option is Signal."
   },
   {
-    "objectID": "index.html#what-is-mastodon",
-    "href": "index.html#what-is-mastodon",
+    "objectID": "index.html#data-backup-policy",
+    "href": "index.html#data-backup-policy",
     "title": "ecoevo.social-docs",
-    "section": "What is Mastodon?",
-    "text": "What is Mastodon?\nMastodon is a federated microblogging platform. You can read more about it in its documentation."
+    "section": "Data backup policy",
+    "text": "Data backup policy\nAs per our host masto.host ToS:\n\nData backups are daily, but media backups do not include remote cache. If a disaster restore is needed, over 24 hours of data could be missing, and it could take several days to bring the service back online.\n\n\nAs mentioned on the my.masto.host backup page, you should regularly download the backup of your server as backups are not stored offline, and in the event of a catastrophic failure, your copy of the backups may be the only way to restore the server. Masto.host is in open beta and offered with no warranty.\n\nAs masto.host does not offer a third off-site backup at this time, the admin will manually download the database backup as regurlarly as possible. This backup is stored privately and encrypted on a remote AWS S3 server. Manual backups will not include media posted on the instance.\nPlease be aware that in case of catastrophic server failure, more than 24h of data and all media could be lost."
   },
   {
     "objectID": "index.html#resources-for-getting-started-with-mastodon-and-the-fediverse",
@@ -30,107 +37,114 @@
   {
     "objectID": "rules.html",
     "href": "rules.html",
-    "title": "2  Rules",
+    "title": "Rules",
     "section": "",
     "text": "No racism, sexism, homophobia, transphobia, xenophobia, or casteism\nNo incitement of violence or promotion of violent ideologies\nNo harassment, dogpiling, or doxxing of other users\nNo intentional sharing of false or misleading information\nNo posting of sexually explicit or violent media\nNo content that is considered illegal in France and/or Germany\n\n\n\n\n\n\n\nRegarding attempts to abuse these anti-abuse tools and policies\n\n\n\nFollowing the Scholar Social community’s guidelines:\n\n“Do not attempt to weaponize our Community Standards or anti-abuse tools/policies against marginalized groups such as people of colour, women or queer people. Users of [ecoevo.social] are expected to have the literacy to understand that”reverse discrimination” is not real, and so attempts to re-centre discussions of marginalized people around the feelings of the privileged will be taken as manipulative behaviour undertaken deliberately in bad-faith. (E.g. white people should not demand that people of colour put CW’s on every discussion of race; a straight person who reports a queer person for writing “I hate straight people” may find their own account suspended.)”\n\n\n\nThese rules are not set in stone and community-suggested changes in wording or the addition of rules is welcomed. See the section How to contribute.\nIn addition to the community guidelines we put in place, the hosting service we are using, masto.host, has its own terms of service as well. They can be found here."
   },
   {
     "objectID": "etiquette.html",
     "href": "etiquette.html",
-    "title": "3  Etiquette",
+    "title": "Etiquette",
     "section": "",
     "text": "Content Warnings (CW) hide parts of toots, can be opened with the click of a button, and individual users can set CWs to open by default. CW are useful to:\n\nEmpower readers who are sensitive to particular subjects to actively decide when to engage with those subjects,\nkeep subjects that may not interest everyone as an opt-in option, and/or\nkeep timelines easier to read.\n\nContent Warnings should be used for topics including, but not limited to:\n\nTriggering content\n\nreports or news about sexual assault, harassment, violence, racism, antisemitism, LGBTQIA+-phobia, burnout, etc.\n\nGlorification of over-working\nCommon phobia-triggering animal media (e.g. spiders, snakes, sharks).\n\nCWs are a useful tool for managing your content. You can use CWs when posting about material you think might not be of broad interest or might take too much visual space. For example, job postings will primarily be of interest to folks looking for that particular job, so you could use a CW to give the general job type/title and let interested readers expand the post to see more details (see also use of hashtags).\nIn this context it can be helpful to think of CW as representing “Content Wrap” rather than Content Warning.\nPlease also read Regarding attempts to abuse these anti-abuse tools and policies."
   },
   {
     "objectID": "etiquette.html#describe-the-media-you-post",
     "href": "etiquette.html#describe-the-media-you-post",
-    "title": "3  Etiquette",
-    "section": "3.2 Describe the media you post",
-    "text": "3.2 Describe the media you post\nWritten descriptions of photos and videos you post are a really important way to increase the accessibility of Mastodon for visually impaired people.\nWhen posting media (pictures or videos), click the edit button and a window will allow you to enter a short written description. This is sometimes also referred to as “alt text” or “alternative text”.\nA nice way to ensure this is to subscribe to a bot that will remind you when you forget alt-text, such as PleaseCaption@botsin.space."
+    "title": "Etiquette",
+    "section": "Describe the media you post",
+    "text": "Describe the media you post\nWritten descriptions of photos and videos you post are a really important way to increase the accessibility of Mastodon for visually impaired people.\nWhen posting media (pictures or videos), click the edit button and a window will allow you to enter a short written description. This is sometimes also referred to as “alt text” or “alternative text”.\nA nice way to ensure this is to subscribe to a bot that will remind you when you forget alt-text, such as PleaseCaption@botsin.space."
   },
   {
     "objectID": "etiquette.html#use-of-hashtags",
     "href": "etiquette.html#use-of-hashtags",
-    "title": "3  Etiquette",
-    "section": "3.3 Use of hashtags",
-    "text": "3.3 Use of hashtags\nHashtags are how content from users you do not follow can be discovered on Mastodon, since the text content of toots is generally not searchable (in most cases anyway; in all cases it requires additional algorithms/software/infrastructure to do so).\nGiven that consideration, we encourage the use of hashtags to classify and broaden the potential reach of the content you share.\nHashtags should use the CamelCase format, where words are separated by upper cases, like so: #ThisNewHashtagIsGreat. This can aid in their readability both by people and by screen readers.\nA list of hashtags that could be used on ecoevo.social:\n\n#JobOffer when posting a job offer of any kind, add more hashtags to precise level #Faculty, #Postdoc, #PhdPosition, #Technician, etc.; and subjects such as #Ecology, #Labwork, or #Modeling\n#Internship to advertise an internship, precise subjects similar to job offers\n#Conference to advertise a conference\nNewPaper or #Preprint for new research results\n#rstats or #python or other languages for coding questions or resources"
+    "title": "Etiquette",
+    "section": "Use of hashtags",
+    "text": "Use of hashtags\nHashtags are how content from users you do not follow can be discovered on Mastodon, since the text content of toots is generally not searchable (in most cases anyway; in all cases it requires additional algorithms/software/infrastructure to do so).\nGiven that consideration, we encourage the use of hashtags to classify and broaden the potential reach of the content you share.\nHashtags should use the CamelCase format, where words are separated by upper cases, like so: #ThisNewHashtagIsGreat. This can aid in their readability both by people and by screen readers.\nA list of hashtags that could be used on ecoevo.social:\n\n#JobOffer when posting a job offer of any kind, add more hashtags to precise level #Faculty, #Postdoc, #PhdPosition, #Technician, etc.; and subjects such as #Ecology, #Labwork, or #Modeling\n#Internship to advertise an internship, precise subjects similar to job offers\n#Conference to advertise a conference\nNewPaper or #Preprint for new research results\n#rstats or #python or other languages for coding questions or resources"
   },
   {
     "objectID": "etiquette.html#threads",
     "href": "etiquette.html#threads",
-    "title": "3  Etiquette",
-    "section": "3.4 Threads",
-    "text": "3.4 Threads\nWhen posting a thread:\n\nSet your first toot to be Public (visible for all)\nThen, reply to your first toot and set the visibility to Unlisted (visible for all, but opted-out of discovery features)\nContinue your thread and the visibility will automatically continue to be set as Unlisted unless you change it\n\nIt is considerate to use the i/n indication at the end of your toots to better indicate this is a thread, where i is the number of the current toot in the thread and n is the total number of toots. You can keep it as a literal n if you don’t know the total number of toots. This approach is similar to the convention people use at the bird site."
+    "title": "Etiquette",
+    "section": "Threads",
+    "text": "Threads\nWhen posting a thread:\n\nSet your first toot to be Public (visible for all)\nThen, reply to your first toot and set the visibility to Unlisted (visible for all, but opted-out of discovery features)\nContinue your thread and the visibility will automatically continue to be set as Unlisted unless you change it\n\nIt is considerate to use the i/n indication at the end of your toots to better indicate this is a thread, where i is the number of the current toot in the thread and n is the total number of toots. You can keep it as a literal n if you don’t know the total number of toots. This approach is similar to the convention people use at the bird site."
   },
   {
     "objectID": "staying-safe.html",
     "href": "staying-safe.html",
-    "title": "4  Staying safe",
+    "title": "Staying safe",
     "section": "",
     "text": "If you want to protect yourself from a specific subject, you have the option to set-up filters.\nGo to Preferences > Filters > Add new filter.\nThere you can choose a keyword or phrase to exclude from ‘Home and lists’, ‘Notifications’, ‘Public timelines’, ‘Conversations’, and/or ‘Profiles’.\n\n\n\nTo block or mute a user, click on the Menu button (three dots) on their toot or profile and select mute @... or block @....\nBlocking a user will stop any possible interaction with you. The blocked user will not be notified and will be removed from your followers. Blocking stops the blocked user from seeing your toots when they are signed in. Nonetheless, be aware that they can bypass this last functionality by seing your profile in a public (not signed in) view, or by using another account.\nMuting a user will remove their toots from your timelines, unless they tag you. They will still be able to see your posts and interact with them. Muted users don’t have a way to know they have been muted.\n\n\n\nIn a rule-breaking situation or if you consider a behavior or toot to be unacceptable, do not hesitate to report a toot or user.\nClick on the Menu button (three dots) of the toot or profile and select report @...\nThis action will open a reporting window where you can can choose between the following options:\n\nI don’t like it\nIt’s spam\nIt violates server rules\nIt’s something else\n\nThen you can select none or several toots from the user related to the issue; these will be added to the report.\nPlease ensure you add an additional comment at the end of your report to help moderators understand the reason for the report. Please do this even if it seems obvious to you.\nModerators will be notified and will take action on your report as soon as they are able. Please be patient as the volunteer moderation team on this instance do this on their own time. Actions available to moderators and their consequences are listed in the Mastodon documentation.\nNo notification is sent to the other user that you reported them or their post.\nReports should be used as often as necessary to ensure the server stays a welcoming space.\n\n\n\nEntire servers can be limited or banned from interacting with our server. This is useful in order to, for example, filter servers that are full of hate speech, spam, or inappropriate content.\nWe will try to block those as we go based on known lists of such server or through user reports. However, if you notice one of those servers that is not blocked (because it is new or because we missed it), you can ask for a domain ban. Don’t hesitate to contact us so that we can take action."
   },
   {
     "objectID": "staying-safe.html#account-security-and-privacy",
     "href": "staying-safe.html#account-security-and-privacy",
-    "title": "4  Staying safe",
-    "section": "4.2 Account Security and privacy",
-    "text": "4.2 Account Security and privacy\n\n4.2.1 Two-Factor authentication (2FA)\nThis mechanism improves the security of your account by requiring a code from another device in order to log in.\nTo enable 2FA, go to Preferences > Account > Two-factor Auth and follow the instructions.\n\n\n4.2.2 Toot privacy levels\nFour privacy levels exists for your toots:\n\nPublic\nUnlisted, not visible on timeline\nPrivate, visible only by followers\nDirect, visible only by mentioned users\n\n\n\n\n\n\n\nWarning\n\n\n\nIn direct messages, even if not initially in the conversation, a tagged user can be added later as a direct participant of the conversation. Be mindful of this scenario. Please also note that these messages are not end-to-end encrypted.\n\n\n\n\n4.2.3 Privacy settings\nHere are a few privacy related parameters and where to find them:\n\nManually control who can follow you by approving follow requests Preferences > Profile > Appearance > [ ] Require follow requests\nHide your follows and followers Preferences > Profile > Appearance > [ ] Hide your social graph\nAvoid being included in search engine results Preferences > Preferences > Other > [ ] Opt-out of search engine indexing\nSet a default for the privacy level of your toots Preferences > Preferences > Other > Posting privacy, Public, Unlisted or Followers-only\nHide (or disclose) the application used to post Preferences > Preferences > Other > [ ] Disclose application used to send posts\n\n\n\n4.2.4 Automated deletion of your posts\nPosts can be made to disapear after a certain age threshold (of the post, not yours!).\nYou can go to Preferences > Automated post deletion where you will find a set of granular settings to control which posts will be deleted and when."
+    "title": "Staying safe",
+    "section": "Account Security and privacy",
+    "text": "Account Security and privacy\n\nTwo-Factor authentication (2FA)\nThis mechanism improves the security of your account by requiring a code from another device in order to log in.\nTo enable 2FA, go to Preferences > Account > Two-factor Auth and follow the instructions.\n\n\nToot privacy levels\nFour privacy levels exists for your toots:\n\nPublic\nUnlisted, not visible on timeline\nPrivate, visible only by followers\nDirect, visible only by mentioned users\n\n\n\n\n\n\n\nWarning\n\n\n\nIn direct messages, even if not initially in the conversation, a tagged user can be added later as a direct participant of the conversation. Be mindful of this scenario. Please also note that these messages are not end-to-end encrypted.\n\n\n\n\nPrivacy settings\nHere are a few privacy related parameters and where to find them:\n\nManually control who can follow you by approving follow requests Preferences > Profile > Appearance > [ ] Require follow requests\nHide your follows and followers Preferences > Profile > Appearance > [ ] Hide your social graph\nAvoid being included in search engine results Preferences > Preferences > Other > [ ] Opt-out of search engine indexing\nSet a default for the privacy level of your toots Preferences > Preferences > Other > Posting privacy, Public, Unlisted or Followers-only\nHide (or disclose) the application used to post Preferences > Preferences > Other > [ ] Disclose application used to send posts\n\n\n\nAutomated deletion of your posts\nPosts can be made to disapear after a certain age threshold (of the post, not yours!).\nYou can go to Preferences > Automated post deletion where you will find a set of granular settings to control which posts will be deleted and when."
   },
   {
     "objectID": "tips.html",
     "href": "tips.html",
-    "title": "5  Tips",
+    "title": "Tips",
     "section": "",
     "text": "We’ve gathered a few useful tips and handy Mastodon features to improve your experience."
   },
   {
     "objectID": "tips.html#finding-your-network",
     "href": "tips.html#finding-your-network",
-    "title": "5  Tips",
-    "section": "5.1 Finding your network",
-    "text": "5.1 Finding your network\nWhether you are migrating from Twitter or not, here is a list of useful tools that can help you find people you would like to connect with.\n\nFinding people by topic:\n\nfediverse.info\nfedi.directory\ntrunk\n\nUse your Twitter information to search for people on Mastodon:\n\nfedifinder\ndebirdify\ntwitodon\n\n\nYou can also use Guppe groups to follow posts from whole groups of people. Briefly, you can follow a topic group account and post to this group by @’ing the group account."
+    "title": "Tips",
+    "section": "Finding your network",
+    "text": "Finding your network\nWhether you are migrating from Twitter or not, here is a list of useful tools that can help you find people you would like to connect with.\n\nFinding people by topic:\n\nfediverse.info\nfedi.directory\ntrunk\n\nUse your Twitter information to search for people on Mastodon:\n\nfedifinder\ndebirdify\ntwitodon"
+  },
+  {
+    "objectID": "tips.html#information-and-topic-groups",
+    "href": "tips.html#information-and-topic-groups",
+    "title": "Tips",
+    "section": "Information and topic groups",
+    "text": "Information and topic groups\nYou can use Guppe groups to follow posts from whole groups of people. Briefly, all posts that contains the @GroupHandle@a.gup.pe handle will be seen by group followers.\nHere are some groups of interest to the community that you can interact with:\n\nphdstudents@a.gup.pe\nacademicchatter@a.gup.pe\njobofferecoevo@a.gup.pe"
   },
   {
     "objectID": "tips.html#other-science-related-instances",
     "href": "tips.html#other-science-related-instances",
-    "title": "5  Tips",
-    "section": "5.2 Other science related instances",
-    "text": "5.2 Other science related instances\nA non-exhaustive list of science and education related instances:\n\ngenomic.social, “A Mastodon server for the Genomic Science Community”\nmstdn.science, microbiology, scientists in general and science enthusiasts\nfediscience.org, “Fediscience is the social network for scientists”\nscholar.social, “anyone involved in academia”\ntech.lgbt, “tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies.”\nmathstodon.xyz, for maths people, with LaTeX rendering\nscicomm.xyz, “for science students, communicators, and enthusiasts … and scientists!”\nred.niboe.info, “para generadores de conocimiento. Lenguajes: Español, Português, otras lenguas nuestroamericanas.”\n\nDon’t hesitate to contribute to grow this list."
+    "title": "Tips",
+    "section": "Other science related instances",
+    "text": "Other science related instances\nA non-exhaustive list of science and education related instances:\n\ngenomic.social, “A Mastodon server for the Genomic Science Community”\nmstdn.science, microbiology, scientists in general and science enthusiasts\nfediscience.org, “Fediscience is the social network for scientists”\nscholar.social, “anyone involved in academia”\ntech.lgbt, “tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies.”\nmathstodon.xyz, for maths people, with LaTeX rendering\nscicomm.xyz, “for science students, communicators, and enthusiasts … and scientists!”\nred.niboe.info, “para generadores de conocimiento. Lenguajes: Español, Português, otras lenguas nuestroamericanas.”\n\nDon’t hesitate to contribute to grow this list."
   },
   {
-    "objectID": "tips.html#alternative-web-interface",
-    "href": "tips.html#alternative-web-interface",
-    "title": "5  Tips",
-    "section": "5.3 Alternative web interface",
-    "text": "5.3 Alternative web interface\nA more advanced/powerful web interface can be enabled in Settings > Preferences > Appearance.\n\nThis will give you access to an interface like this one:"
+    "objectID": "tips.html#advanced-web-interface",
+    "href": "tips.html#advanced-web-interface",
+    "title": "Tips",
+    "section": "Advanced web interface",
+    "text": "Advanced web interface\nA more advanced/powerful web interface can be enabled in Settings > Preferences > Appearance.\n\nThis will give you access to an interface like this one:"
   },
   {
     "objectID": "tips.html#keyboard-shortcuts",
     "href": "tips.html#keyboard-shortcuts",
-    "title": "5  Tips",
-    "section": "5.4 Keyboard shortcuts",
-    "text": "5.4 Keyboard shortcuts\nIf you like keyboard shortcuts, the web interface has hotkeys that can be found here.\nThis link can be opened from the bottom of the side panel by clicking on Hotkeys."
+    "title": "Tips",
+    "section": "Keyboard shortcuts",
+    "text": "Keyboard shortcuts\nIf you like keyboard shortcuts, the web interface has hotkeys that can be found here.\nThis link can be opened from the bottom of the side panel by clicking on Hotkeys."
   },
   {
     "objectID": "how-to-contribute.html",
     "href": "how-to-contribute.html",
-    "title": "6  Contributing",
+    "title": "Contributing",
     "section": "",
     "text": "This documentation is being developed as a Quarto book hosted on GitHub.\nTo contribute, head to the GitHub repository and open either:\n\nan issue\na pull-request\nor start a discussion\n\nDocuments are written in markdown, with each section in its respective ./*.qmd document."
   },
   {
     "objectID": "how-to-contribute.html#contributing-financially-to-server-costs",
     "href": "how-to-contribute.html#contributing-financially-to-server-costs",
-    "title": "6  Contributing",
-    "section": "6.2 Contributing financially to server costs",
-    "text": "6.2 Contributing financially to server costs\nIf you would like to contribute financially to server hosting costs, head to Open Collective. The budget is fully transparent there. Transactions are made using Alexis Simon’s Wise account and using the Stripe card payment service.\nWhile this is not currently the case, if more money than necessary to operate the server and renew the domain name is collected, any additional funds will be redistributed to the community. This redistribution could occur in a number of possible ways, including via possible initiatives like a “best student science communication toot” competition/prize."
+    "title": "Contributing",
+    "section": "Contributing financially to server costs",
+    "text": "Contributing financially to server costs\nIf you would like to contribute financially to server hosting costs, head to Open Collective. The budget is fully transparent there. Transactions are made using Alexis Simon’s Wise account and using the Stripe card payment service.\nWhile this is not currently the case, if more money than necessary to operate the server and renew the domain name is collected, any additional funds will be redistributed to the community. This redistribution could occur in a number of possible ways, including via possible initiatives like a “best student science communication toot” competition/prize."
   },
   {
     "objectID": "how-to-contribute.html#contributing-to-server-moderation",
     "href": "how-to-contribute.html#contributing-to-server-moderation",
-    "title": "6  Contributing",
-    "section": "6.3 Contributing to server moderation",
-    "text": "6.3 Contributing to server moderation\nIf you want to help protect people using this instance from internal and/or external misbehaviors, you can ask me, Alexis Simon, to help contribute to moderating.\nTo do so, send a direct message via @alxsim@ecoevo.social and we can chat."
+    "title": "Contributing",
+    "section": "Contributing to server moderation",
+    "text": "Contributing to server moderation\nIf you want to help protect people using this instance from internal and/or external misbehaviors, you can ask me, Alexis Simon, to help contribute to moderating.\nTo do so, send a direct message via @alxsim@ecoevo.social and we can chat."
   },
   {
     "objectID": "contacts.html",
