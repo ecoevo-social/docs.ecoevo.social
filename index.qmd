@@ -6,7 +6,7 @@ title: Introduction
 This guide is under active development and things will definitely change over time.
 
 This is also designed to be a community-built resource.
-Please check out the [How to contribute](./how-to-contribute.html) page for more information.
+Please check out the [Contributing](./how-to-contribute.html) page for more information.
 :::
 
 # Introduction
@@ -26,7 +26,11 @@ through [Open Collective](https://opencollective.com/ecoevosocial).
 
 Enjoy connecting!
 
-## About privacy {.unnumbered}
+## What is Mastodon?
+
+[Mastodon](https://joinmastodon.org/) is a federated microblogging platform. You can read more about it in its [documentation](https://docs.joinmastodon.org/).
+
+## About privacy
 
 A safe internet user is an informed internet user.
 
@@ -51,11 +55,24 @@ If you need to have truly private conversations with someone else that contain s
 we suggest you use another application offering end-to-end encryption and privacy. One good option is [Signal](https://signal.org).
 :::
 
-## What is Mastodon? {.unnumbered}
+## Data backup policy
 
-[Mastodon](https://joinmastodon.org/) is a federated microblogging platform. You can read more about it in its [documentation](https://docs.joinmastodon.org/).
+As per our host [masto.host ToS](https://masto.host/tos/):
 
-## Resources for Getting Started with Mastodon and the Fediverse {.unnumbered}
+> Data backups are daily, but media backups do not include remote cache. If a disaster restore is needed, over 24 hours of data could be missing, and it could take several days to bring the service back online.
+
+> As mentioned on the my.masto.host backup page, you should regularly download the backup of your server as backups are not stored offline, and in the event of a catastrophic failure, your copy of the backups may be the only way to restore the server. Masto.host is in open beta and offered with no warranty.
+
+As masto.host does not offer a third off-site backup at this time,
+the admin will manually download the database backup as regurlarly as possible.
+This backup is stored privately and encrypted on a remote AWS S3 server.
+Manual backups will not include media posted on the instance.
+
+Please be aware that in case of catastrophic server failure,
+more than 24h of data and all media could be lost.
+
+
+## Resources for Getting Started with Mastodon and the Fediverse
 
 * [Everything I know about Mastodon, by Danielle Navarro](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon)
 * [Mastodon documentation](https://docs.joinmastodon.org/)
