@@ -21,8 +21,16 @@ would like to connect with.
 	* [debirdify](https://pruvisto.org/debirdify/)
 	* [twitodon](https://twitodon.com/)
 
-You can also use [Guppe groups](https://a.gup.pe/) to follow posts from whole groups of people.
-Briefly, you can follow a topic group account and post to this group by @'ing the group account.
+## Information and topic groups
+
+You can use [Guppe groups](https://a.gup.pe/) to follow posts from whole groups of people.
+Briefly, all posts that contains the `@GroupHandle@a.gup.pe` handle will be seen by group followers.
+
+Here are some groups of interest to the community that you can interact with:
+
+* [phdstudents@a.gup.pe](https://a.gup.pe/u/phdstudents)
+* [academicchatter@a.gup.pe](https://a.gup.pe/u/academicchatter)
+* [jobofferecoevo@a.gup.pe](https://a.gup.pe/u/jobofferecoevo)
 
 ## Other science related instances
 
@@ -39,7 +47,7 @@ A non-exhaustive list of science and education related instances:
 
 Don't hesitate to [contribute](./how-to-contribute.html#contributing-to-this-documentation) to grow this list.
 
-## Alternative web interface
+## Advanced web interface
 
 A more advanced/powerful web interface can be enabled in `Settings > Preferences > Appearance`.
 
