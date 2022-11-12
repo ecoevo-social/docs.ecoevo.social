@@ -1,5 +1,6 @@
-
-# Contacts {.unnumbered}
+---
+title: Contacts
+---
 
 Current Admins:
 
