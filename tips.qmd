@@ -6,6 +6,81 @@ We've gathered a few useful tips and handy
 [Mastodon](https://joinmastodon.org/) features
 to improve your experience.
 
+## Migrating your account
+
+Let's say for example you want to migrate from
+*mastodon.social* (your old server) to *ecoevo.social* (your new server).
+
+::: {.callout-note}
+An account is not really "moved" from one server to another.
+Instead, a new account is created on the new server and Mastodon make
+it easy to export/import the followed account list and followers from the old
+server to the new one.
+:::
+
+Here are the steps to migrate.
+
+**A) On the new server *ecoevo.social*:**
+
+1) Open a new account on *ecoevo.social* with the username you want
+(it does not have to be the same one as on *mastodon.social*)
+2) Set up your profile on your new account, such as displayed name,
+profile picture, and bio.
+
+::: {layout="[[1,1]]"}
+![](resources/images/tips-screenshot-migrate-1.png)
+
+![](resources/images/tips-screenshot-migrate-2.png)
+:::
+
+**B) On the old server *mastodon.social*:**
+
+1) Go to `Preferences > Import and export > Data export` and export in CSV format
+every category you wish to transfer to the *ecoevo.social* server.<br>
+![](resources/images/tips-screenshot-migrate-3.png)
+
+**C) On the new server *ecoevo.social*:**
+
+1) Go to `Preferences > Import and export > Import` and import back the CSV files
+for each category of data you want.<br>
+![](resources/images/tips-screenshot-migrate-4.png)
+2) Go to `Preferences > Account > Account settings` and in the section
+"Moving from a different account" click on "create an account alias" link.
+You need to alias your two accounts, this is necessary for the next step.
+
+::: {layout="[[1,1]]"}
+![](resources/images/tips-screenshot-migrate-5.png)
+
+![](resources/images/tips-screenshot-migrate-6.png)
+:::
+
+
+**D) On the old server *mastodon.social*:**
+
+Go to `Preferences > Account > Account settings` and in the section
+"Move to a different account" click on "configure it here" link.
+On this page you will indicate your new account handle (with your new server)
+such as `TootJedi@ecoevo.social` and your password for this new account on
+*ecoevo.social*.
+
+![](resources/images/tips-screenshot-migrate-7.png)
+
+![](resources/images/tips-screenshot-migrate-8.png)
+
+Once this is all finished, your followers will be transfered to your new account
+(i.e. a follower will automatically unfollow your old account and follow your new account).
+This operation can take a few minutes or several hours to complete,
+depending on the computational load of servers.
+A redirection has been put in place on your old account.
+
+As a final step, when you have checked that all your followers and followed account,
+lists, muted, and/or blocked accounts have been correctly transfered, you can delete your old account.
+Head to your old account settings on *mastodon.social* in `Preferences > Account > Account settings`,
+at the bottom of the page in the section "Delete account" click on the "proceed here" link.
+Please be aware that account deletion is irreversible and will condemn your handle from ever
+being used again.
+
+
 ## Finding your network
 
 Whether you are migrating from Twitter or not,
