@@ -139,6 +139,6 @@ This will give you access to an interface like this one:
 
 If you like keyboard shortcuts,
 the web interface has hotkeys that can be found
-[here](https://ecoevo.social/web/keyboard-shortcuts).
+[here](https://ecoevo.social/keyboard-shortcuts).
 
-This link can be opened from the bottom of the side panel by clicking on `Hotkeys`.
+This link can be opened from the bottom of the side panel by clicking on `Keyboard shortcuts`.
