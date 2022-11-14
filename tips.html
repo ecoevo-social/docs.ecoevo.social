@@ -140,7 +140,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#finding-your-network" id="toc-finding-your-network" class="nav-link active" data-scroll-target="#finding-your-network">Finding your network</a></li>
+  <li><a href="#migrating-your-account" id="toc-migrating-your-account" class="nav-link active" data-scroll-target="#migrating-your-account">Migrating your account</a></li>
+  <li><a href="#finding-your-network" id="toc-finding-your-network" class="nav-link" data-scroll-target="#finding-your-network">Finding your network</a></li>
   <li><a href="#information-and-topic-groups" id="toc-information-and-topic-groups" class="nav-link" data-scroll-target="#information-and-topic-groups">Information and topic groups</a></li>
   <li><a href="#other-science-related-instances" id="toc-other-science-related-instances" class="nav-link" data-scroll-target="#other-science-related-instances">Other science related instances</a></li>
   <li><a href="#advanced-web-interface" id="toc-advanced-web-interface" class="nav-link" data-scroll-target="#advanced-web-interface">Advanced web interface</a></li>
@@ -168,6 +169,64 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p>We’ve gathered a few useful tips and handy <a href="https://joinmastodon.org/">Mastodon</a> features to improve your experience.</p>
+<section id="migrating-your-account" class="level2">
+<h2 class="anchored" data-anchor-id="migrating-your-account">Migrating your account</h2>
+<p>Let’s say for example you want to migrate from <em>mastodon.social</em> (your old server) to <em>ecoevo.social</em> (your new server).</p>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>An account is not really “moved” from one server to another. Instead, a new account is created on the new server and Mastodon make it easy to export/import the followed account list and followers from the old server to the new one.</p>
+</div>
+</div>
+<p>Here are the steps to migrate.</p>
+<p><strong>A) On the new server <em>ecoevo.social</em>:</strong></p>
+<ol type="1">
+<li>Open a new account on <em>ecoevo.social</em> with the username you want (it does not have to be the same one as on <em>mastodon.social</em>)</li>
+<li>Set up your profile on your new account, such as displayed name, profile picture, and bio.</li>
+</ol>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="resources/images/tips-screenshot-migrate-1.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="resources/images/tips-screenshot-migrate-2.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+<p><strong>B) On the old server <em>mastodon.social</em>:</strong></p>
+<ol type="1">
+<li>Go to <code>Preferences &gt; Import and export &gt; Data export</code> and export in CSV format every category you wish to transfer to the <em>ecoevo.social</em> server.<br> <img src="resources/images/tips-screenshot-migrate-3.png" class="img-fluid"></li>
+</ol>
+<p><strong>C) On the new server <em>ecoevo.social</em>:</strong></p>
+<ol type="1">
+<li>Go to <code>Preferences &gt; Import and export &gt; Import</code> and import back the CSV files for each category of data you want.<br> <img src="resources/images/tips-screenshot-migrate-4.png" class="img-fluid"></li>
+<li>Go to <code>Preferences &gt; Account &gt; Account settings</code> and in the section “Moving from a different account” click on “create an account alias” link. You need to alias your two accounts, this is necessary for the next step.</li>
+</ol>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="resources/images/tips-screenshot-migrate-5.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="resources/images/tips-screenshot-migrate-6.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+<p><strong>D) On the old server <em>mastodon.social</em>:</strong></p>
+<p>Go to <code>Preferences &gt; Account &gt; Account settings</code> and in the section “Move to a different account” click on “configure it here” link. On this page you will indicate your new account handle (with your new server) such as <code>TootJedi@ecoevo.social</code> and your password for this new account on <em>ecoevo.social</em>.</p>
+<p><img src="resources/images/tips-screenshot-migrate-7.png" class="img-fluid"></p>
+<p><img src="resources/images/tips-screenshot-migrate-8.png" class="img-fluid"></p>
+<p>Once this is all finished, your followers will be transfered to your new account (i.e.&nbsp;a follower will automatically unfollow your old account and follow your new account). This operation can take a few minutes or several hours to complete, depending on the computational load of servers. A redirection has been put in place on your old account.</p>
+<p>As a final step, when you have checked that all your followers and followed account, lists, muted, and/or blocked accounts have been correctly transfered, you can delete your old account. Head to your old account settings on <em>mastodon.social</em> in <code>Preferences &gt; Account &gt; Account settings</code>, at the bottom of the page in the section “Delete account” click on the “proceed here” link. Please be aware that account deletion is irreversible and will condemn your handle from ever being used again.</p>
+</section>
 <section id="finding-your-network" class="level2">
 <h2 class="anchored" data-anchor-id="finding-your-network">Finding your network</h2>
 <p>Whether you are migrating from Twitter or not, here is a list of useful tools that can help you find people you would like to connect with.</p>
