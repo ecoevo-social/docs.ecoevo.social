@@ -95,6 +95,9 @@ would like to connect with.
 	* [fedifinder](https://fedifinder.glitch.me/)
 	* [debirdify](https://pruvisto.org/debirdify/)
 	* [twitodon](https://twitodon.com/)
+* View the local feed of another instance:
+	* [mastovue.glitch.me](https://mastovue.glitch.me)
+	* [Toot! app](https://apps.apple.com/app/toot/id1229021451) (iOS only)
 
 ## Information and topic groups
 
