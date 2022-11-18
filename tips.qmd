@@ -91,6 +91,7 @@ would like to connect with.
 	* [fediverse.info](https://fediverse.info/explore/people)
 	* [fedi.directory](https://fedi.directory/)
 	* [trunk](https://communitywiki.org/trunk)
+	* [academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon)
 * Use your Twitter information to search for people on Mastodon:
 	* [fedifinder](https://fedifinder.glitch.me/)
 	* [debirdify](https://pruvisto.org/debirdify/)
@@ -122,6 +123,8 @@ A non-exhaustive list of science and education related instances:
 * [mathstodon.xyz](https://mathstodon.xyz/about), for maths people, with LaTeX rendering
 * [scicomm.xyz](https://scicomm.xyz/about), "for science students, communicators, and enthusiasts ... and scientists!"
 * [red.niboe.info](https://red.niboe.info/about), "para generadores de conocimiento. Lenguajes: Español, Português, otras lenguas nuestroamericanas."
+
+You can also check the [academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) repository.
 
 Don't hesitate to [contribute](./how-to-contribute.html#contributing-to-this-documentation) to grow this list.
 
