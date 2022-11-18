@@ -102,7 +102,7 @@
     "href": "tips.html#finding-your-network",
     "title": "Tips",
     "section": "Finding your network",
-    "text": "Finding your network\nWhether you are migrating from Twitter or not, here is a list of useful tools that can help you find people you would like to connect with.\n\nFinding people by topic:\n\nfediverse.info\nfedi.directory\ntrunk\n\nUse your Twitter information to search for people on Mastodon:\n\nfedifinder\ndebirdify\ntwitodon\n\nView the local feed of another instance:\n\nmastovue.glitch.me\nToot! app (iOS only)"
+    "text": "Finding your network\nWhether you are migrating from Twitter or not, here is a list of useful tools that can help you find people you would like to connect with.\n\nFinding people by topic:\n\nfediverse.info\nfedi.directory\ntrunk\nacademics-on-mastodon\n\nUse your Twitter information to search for people on Mastodon:\n\nfedifinder\ndebirdify\ntwitodon\n\nView the local feed of another instance:\n\nmastovue.glitch.me\nToot! app (iOS only)"
   },
   {
     "objectID": "tips.html#information-and-topic-groups",
@@ -116,7 +116,7 @@
     "href": "tips.html#other-science-related-instances",
     "title": "Tips",
     "section": "Other science related instances",
-    "text": "Other science related instances\nA non-exhaustive list of science and education related instances:\n\ngenomic.social, “A Mastodon server for the Genomic Science Community”\nmstdn.science, microbiology, scientists in general and science enthusiasts\nfediscience.org, “Fediscience is the social network for scientists”\nscholar.social, “anyone involved in academia”\ntech.lgbt, “tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies.”\nmathstodon.xyz, for maths people, with LaTeX rendering\nscicomm.xyz, “for science students, communicators, and enthusiasts … and scientists!”\nred.niboe.info, “para generadores de conocimiento. Lenguajes: Español, Português, otras lenguas nuestroamericanas.”\n\nDon’t hesitate to contribute to grow this list."
+    "text": "Other science related instances\nA non-exhaustive list of science and education related instances:\n\ngenomic.social, “A Mastodon server for the Genomic Science Community”\nmstdn.science, microbiology, scientists in general and science enthusiasts\nfediscience.org, “Fediscience is the social network for scientists”\nscholar.social, “anyone involved in academia”\ntech.lgbt, “tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies.”\nmathstodon.xyz, for maths people, with LaTeX rendering\nscicomm.xyz, “for science students, communicators, and enthusiasts … and scientists!”\nred.niboe.info, “para generadores de conocimiento. Lenguajes: Español, Português, otras lenguas nuestroamericanas.”\n\nYou can also check the academics-on-mastodon repository.\nDon’t hesitate to contribute to grow this list."
   },
   {
     "objectID": "tips.html#advanced-web-interface",
