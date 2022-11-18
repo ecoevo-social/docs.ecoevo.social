@@ -24,9 +24,11 @@ Please be patient if issues arise, as we are all learning together how to best d
 If you are in a position to do so, you can contribute financially for the maintenance of the server
 through [Open Collective](https://opencollective.com/ecoevosocial).
 
-The infrastucture of this server is maintained by [masto.host](https://masto.host) and physically hosted by OVH in France.
+The infrastucture of [ecoevo.social](https://ecoevo.social/about) 
+is maintained by [masto.host](https://masto.host) and physically hosted by OVH in France.
 Their terms of service can be found [here](https://masto.host/tos).
-Status of the server can be seen [here](https://status.masto.host/), ecoevo.social is is hosted on App Server 9 and Database 8.
+Status of the server can be seen [here](https://status.masto.host/),
+[ecoevo.social](https://ecoevo.social/about) is is hosted on App Server 9 and Database 8.
 
 Enjoy connecting!
 
