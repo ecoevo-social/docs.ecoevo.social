@@ -15,7 +15,7 @@ By using ecoevo.social, you agree to abide by the following rules:
 ## Details about the rules
 
 - Sharing a paper, even behind a paywall, will not be considered as advertisement.
-But we highly encourage posters to prioritize sharing through open-access versions of
+However, we highly encourage posters to prioritize sharing through open-access versions of
 the papers (such as preprint servers, paper repositories like HAL, or over means bypassing paywalls).
 
 ::: {.callout-warning}
