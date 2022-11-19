@@ -28,7 +28,7 @@ The infrastucture of [ecoevo.social](https://ecoevo.social/about)
 is maintained by [masto.host](https://masto.host) and physically hosted by OVH in France.
 Their terms of service can be found [here](https://masto.host/tos).
 Status of the server can be seen [here](https://status.masto.host/),
-[ecoevo.social](https://ecoevo.social/about) is is hosted on App Server 9 and Database 8.
+[ecoevo.social](https://ecoevo.social/about) is hosted on App Server 9 and Database 8.
 
 Enjoy connecting!
 
