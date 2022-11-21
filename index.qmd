@@ -70,7 +70,7 @@ As per our host [masto.host ToS](https://masto.host/tos/):
 > As mentioned on the my.masto.host backup page, you should regularly download the backup of your server as backups are not stored offline, and in the event of a catastrophic failure, your copy of the backups may be the only way to restore the server. Masto.host is in open beta and offered with no warranty.
 
 As masto.host does not offer a third off-site backup at this time,
-the admin will manually download the database backup as regurlarly as possible.
+the admin will manually download the database backup as regurlarly as possible (limited at four times per month).
 This backup is stored privately and encrypted on a remote AWS S3 server.
 Manual backups will not include media posted on the instance.
 
