@@ -74,7 +74,7 @@
     "href": "etiquette.html#threads",
     "title": "Etiquette",
     "section": "Threads",
-    "text": "Threads\nWhen posting a thread:\n\nSet your first toot to be Public (visible for all)\nThen, reply to your first toot and set the visibility to Unlisted (visible for all, but opted-out of discovery features)\nContinue your thread and the visibility will automatically continue to be set as Unlisted unless you change it\n\nIt is considerate to use the i/n indication at the end of your toots to better indicate this is a thread, where i is the number of the current toot in the thread and n is the total number of toots. You can keep it as a literal n if you don’t know the total number of toots. This approach is similar to the convention people use at the bird site."
+    "text": "Threads\nWhen posting a thread:\n\nSet your first post to be Public (visible for all)\nThen, reply to your first post and set the visibility to Unlisted (visible for all, but opted-out of discovery features)\nContinue your thread by replying to the last post and the visibility will automatically be set as Unlisted unless you change it\n\nIt is considerate to use the i/n indication at the end or beginning of your posts to better indicate this is a thread, where i is the number of the current toot in the thread and n is the total number of toots. You can keep it as a literal n if you don’t know the total number of toots. This approach is similar to the convention people use at the bird site."
   },
   {
     "objectID": "staying-safe.html#protecting-yourself-and-others",
