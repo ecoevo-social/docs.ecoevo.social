@@ -103,7 +103,8 @@ would like to connect with.
 ## Information and topic groups
 
 You can use [Guppe groups](https://a.gup.pe/) to follow posts from whole groups of people.
-Briefly, all posts that contains the `@GroupHandle@a.gup.pe` handle will be seen by group followers.
+Briefly, all posts that contains the `@GroupHandle@a.gup.pe` handle will be boosted by the group account
+and appear on its followers' timeline.
 
 Here are some groups of interest to the community that you can interact with:
 
