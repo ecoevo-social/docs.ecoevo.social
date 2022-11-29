@@ -6,10 +6,10 @@ Current admin:
 
 * Alexis Simon, [@alxsim](https://ecoevo.social/@alxsim) (Owner)
 * Erinne Stirling, [@DrErinne](https://ecoevo.social/@DrErinne)
+* Naupaka Zimmerman, [@naupaka](https://ecoevo.social/@naupaka)
 
 Current moderators:
 
-* Naupaka Zimmerman, [@naupaka](https://ecoevo.social/@naupaka)
 * weecology, [@weecology](https://ecoevo.social/@weecology),
 	managed by [Ethan White](https://mastodon.social/@ethanwhite) and [Morgan Ernest](https://mastodon.social/@skmorgane)
 * Nicolas Bierne, [@couplingdmi](https://ecoevo.social/@couplingdmi)
