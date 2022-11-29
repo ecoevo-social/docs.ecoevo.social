@@ -60,7 +60,7 @@
     "href": "etiquette.html#describe-the-media-you-post",
     "title": "Etiquette",
     "section": "Describe the media you post",
-    "text": "Describe the media you post\nWritten descriptions of photos and videos you post are a really important way to increase the accessibility of Mastodon for visually impaired people.\nWhen posting media (pictures or videos), click the edit button and a window will allow you to enter a short written description. This is sometimes also referred to as “alt text” or “alternative text”.\nA nice way to ensure this is to subscribe to a bot that will remind you when you forget alt-text, such as PleaseCaption@botsin.space."
+    "text": "Describe the media you post\nWritten descriptions of photos and videos you post are a really important way to increase the accessibility of Mastodon for visually impaired people.\nWhen posting media (pictures or videos), click the edit button and a window will allow you to enter a short written description. This is sometimes also referred to as “alt text” or “alternative text”.\nA nice way to ensure this is to subscribe to a bot that will remind you when you forget alt-text, such as PleaseCaption@botsin.space.\nHere is a good guide on how to write an image description by Alex Chen."
   },
   {
     "objectID": "etiquette.html#use-of-hashtags",
