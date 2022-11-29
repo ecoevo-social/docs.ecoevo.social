@@ -46,6 +46,10 @@ This is sometimes also referred to as "alt text" or "alternative text".
 A nice way to ensure this is to subscribe to a bot that will remind you when you forget alt-text,
 such as [PleaseCaption@botsin.space](https://botsin.space/@PleaseCaption).
 
+Here is a good guide on
+[how to write an image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546)
+by [Alex Chen](https://www.alexyingchen.com/).
+
 ## Use of hashtags
 
 Hashtags are how content from users you do not follow can be discovered on Mastodon, since the text content of toots
