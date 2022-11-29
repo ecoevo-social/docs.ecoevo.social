@@ -2,17 +2,17 @@
 title: Contacts
 ---
 
-Current Admins:
+Current admin:
 
-* Alexis Simon, [@alxsim](https://ecoevo.social/@alxsim)
+* Alexis Simon, [@alxsim](https://ecoevo.social/@alxsim) (Owner)
+* Erinne Stirling, [@DrErinne](https://ecoevo.social/@DrErinne)
 
 Current moderators:
 
 * Naupaka Zimmerman, [@naupaka](https://ecoevo.social/@naupaka)
 * weecology, [@weecology](https://ecoevo.social/@weecology),
 	managed by [Ethan White](https://mastodon.social/@ethanwhite) and [Morgan Ernest](https://mastodon.social/@skmorgane)
-* Nicolas Bierne, [@couplingdmi](https://mastodon.social/@couplingdmi)
-* Erinne Stirling, [@DrErinne](https://ecoevo.social/@DrErinne)
+* Nicolas Bierne, [@couplingdmi](https://ecoevo.social/@couplingdmi)
 * Clare Venney, [@ClareVenney](https://ecoevo.social/@ClareVenney)
 * Jeremy B. Yoder, [@jby](https://ecoevo.social/@jby)
 
