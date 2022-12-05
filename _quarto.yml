@@ -20,7 +20,7 @@ book:
     - staying-safe.qmd
     - tips.qmd
     - faq.qmd
-    - how-to-contribute.qmd
+    - contributing.qmd
     - contacts.qmd
 
 format:

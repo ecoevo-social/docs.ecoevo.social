@@ -29,6 +29,6 @@ including via possible initiatives like a "best student science communication to
 ## Contributing to server moderation
 
 If you want to help protect people using this instance from internal and/or external misbehaviors,
-you can ask me, Alexis Simon, to help contribute to moderating.
+you can ask Alexis to join the moderation team.
 
 To do so, send a direct message via [@alxsim@ecoevo.social](https://ecoevo.social/@alxsim) and we can chat.
