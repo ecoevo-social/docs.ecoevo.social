@@ -147,25 +147,25 @@
     "text": "How do I migrate my account to ecoevo.social?\nHow is Content Warning (CW) decided when I post something?\nWhy are some features I have seen on other servers not available in this one?\n\n\nHow do I migrate my account to ecoevo.social?\nPlease see the tips section dedicated to migrating.\n\n\nHow is Content Warning (CW) decided when I post something?\nCW is not automatically decided by an algorithm but is an opt-in option for the author of the post. A good start to understand CW is to read the etiquette section about it.\n\n\nWhy are some features I have seen on other servers not available in this one?\nMastodon is an open-source software in constant development, both from the main mainainers here but also by other groups of people that may want to fork the project or build custom features.\nOn ecoevo.social we are running the official stable version of Mastodon. Therefore we do not have features available currently in the development version or custom features locally applied on other servers.\necoevo.social being dependant on our hosting provider masto.host, we do not have the possibility to install either the development version or custom features."
   },
   {
-    "objectID": "how-to-contribute.html#contributing-to-this-documentation",
-    "href": "how-to-contribute.html#contributing-to-this-documentation",
+    "objectID": "contributing.html#contributing-to-this-documentation",
+    "href": "contributing.html#contributing-to-this-documentation",
     "title": "Contributing",
     "section": "Contributing to this documentation",
     "text": "Contributing to this documentation\nThis documentation is being developed as a Quarto book hosted on GitHub.\nTo contribute, head to the GitHub repository and open either:\n\nan issue\na pull-request\nor start a discussion\n\nDocuments are written in markdown, with each section in its respective ./*.qmd document."
   },
   {
-    "objectID": "how-to-contribute.html#contributing-financially-to-server-costs",
-    "href": "how-to-contribute.html#contributing-financially-to-server-costs",
+    "objectID": "contributing.html#contributing-financially-to-server-costs",
+    "href": "contributing.html#contributing-financially-to-server-costs",
     "title": "Contributing",
     "section": "Contributing financially to server costs",
     "text": "Contributing financially to server costs\nIf you would like to contribute financially to server hosting costs, head to Open Collective. The budget is fully transparent there. Transactions are made using Alexis Simon’s Wise account and using the Stripe card payment service.\nWhile this is not currently the case, if more money than necessary to operate the server and renew the domain name is collected, any additional funds will be redistributed to the community. This redistribution could occur in a number of possible ways, including via possible initiatives like a “best student science communication toot” competition/prize."
   },
   {
-    "objectID": "how-to-contribute.html#contributing-to-server-moderation",
-    "href": "how-to-contribute.html#contributing-to-server-moderation",
+    "objectID": "contributing.html#contributing-to-server-moderation",
+    "href": "contributing.html#contributing-to-server-moderation",
     "title": "Contributing",
     "section": "Contributing to server moderation",
-    "text": "Contributing to server moderation\nIf you want to help protect people using this instance from internal and/or external misbehaviors, you can ask me, Alexis Simon, to help contribute to moderating.\nTo do so, send a direct message via @alxsim@ecoevo.social and we can chat."
+    "text": "Contributing to server moderation\nIf you want to help protect people using this instance from internal and/or external misbehaviors, you can ask Alexis to join the moderation team.\nTo do so, send a direct message via @alxsim@ecoevo.social and we can chat."
   },
   {
     "objectID": "contacts.html",
