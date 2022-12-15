@@ -16,7 +16,7 @@ Current moderators:
 * Clare Venney, [@ClareVenney](https://ecoevo.social/@ClareVenney)
 * Jeremy B. Yoder, [@jby](https://ecoevo.social/@jby)
 
-Alexis Simon can be reached by [email](mailto:ecoevo.social@gmail.com).
+Alexis Simon can be reached by [email](mailto:alexis.simon@ecoevo.social).
 
 In case of server failure or prolonged downtime,
 Alexis will try to post information on a different server [@ecoevosocial@fediscience.org](https://fediscience.org/@ecoevosocial).
