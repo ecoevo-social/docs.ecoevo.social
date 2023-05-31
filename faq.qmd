@@ -4,7 +4,7 @@ title: "FAQ"
 
 * [How do I migrate my account to ecoevo.social?](#q1)
 * [How is Content Warning (CW) decided when I post something?](#q2)
-* [Why are some features I have seen on other servers not available in this one?](#q3)
+* [Why are some features I have seen on other servers not available on ecoevo.social?](#q3)
 
 ### How do I migrate my account to ecoevo.social? {#q1}
 
@@ -16,10 +16,10 @@ CW is not automatically decided by an algorithm but is an opt-in option for the
 author of the post.
 A good start to understand CW is to read the [etiquette section](./etiquette.html#use-of-content-warnings) about it.
 
-### Why are some features I have seen on other servers not available in this one? {#q3}
+### Why are some features I have seen on other servers not available on ecoevo.social? {#q3}
 
 Mastodon is an open-source software in constant development,
-both from the main mainainers [here](https://github.com/mastodon/mastodon)
+both from the main maintainers [here](https://github.com/mastodon/mastodon)
 but also by other groups of people that may want to fork the project or
 build custom features.
 
@@ -28,6 +28,6 @@ official stable version of Mastodon.
 Therefore we do not have features available currently in the development version
 or custom features locally applied on other servers.
 
-[ecoevo.social](https://ecoevo.social/about) being dependant on our hosting provider
+[ecoevo.social](https://ecoevo.social/about) is dependant on the hosting provider
 [masto.host](https://masto.host/), we do not have the possibility to install either
 the development version or custom features.
