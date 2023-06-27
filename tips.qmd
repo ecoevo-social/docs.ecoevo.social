@@ -119,11 +119,12 @@ A non-exhaustive list of science and education related instances:
 * [genomic.social](https://genomic.social/about), "A Mastodon server for the Genomic Science Community"
 * [mstdn.science](https://mstdn.science/about), microbiology, scientists in general and science enthusiasts
 * [fediscience.org](https://fediscience.org/about), "Fediscience is the social network for scientists"
+* [biologists.social](https://biologists.social), "this is a space for biologists to discuss science, research, teaching, life, and more"
 * [scholar.social](https://scholar.social/about), "anyone involved in academia"
-* [tech.lgbt](https://tech.lgbt/about), "tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies."
+* [tech.lgbt](https://tech.lgbt/about), "tech workers, academics, students, and others interested in tech who are LGBTQIA+ or Allies"
 * [mathstodon.xyz](https://mathstodon.xyz/about), for maths people, with LaTeX rendering
 * [scicomm.xyz](https://scicomm.xyz/about), "for science students, communicators, and enthusiasts ... and scientists!"
-* [red.niboe.info](https://red.niboe.info/about), "para generadores de conocimiento. Lenguajes: Español, Português, otras lenguas nuestroamericanas."
+* [red.niboe.info](https://red.niboe.info/about), "para generadores de conocimiento. Lenguajes: Español, Português, otras lenguas nuestroamericanas"
 
 You can also check the [academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) repository.
 
