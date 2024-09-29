@@ -2,6 +2,14 @@
 title: Introduction
 ---
 
+:::{.callout-warning}
+## Downtime planned
+
+A server migration is planned Monday 2024-09-30 around 10:00 UTC.
+
+Downtime should be expected for a few hours around this time.
+:::
+
 :::{.callout-note}
 This guide is under active development and things will definitely change over time.
 
