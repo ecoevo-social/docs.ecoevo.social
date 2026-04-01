@@ -99,8 +99,7 @@ user settings. For the provision of the service, ecoevo.social employs the
 data processors listed below that process personal data linked to the
 service solely on the written instruction from ecoevo.social:
 
-- Server hosting from [masto.host, Leiria, Portugal](https://masto.host){target="_blank"}
-- Email notifications delivery from [mailgun, San Antonio, TX, USA](https://www.mailgun.com/){target="_blank"}
+- Server hosting from [toot.io](https://toot.io/mastodon_hosting.html){target="_blank"}, see their own [privacy policy](https://toot.io/mastodon_privacy.html) for further detail.
 - Donations processing from [Open Collective](https://opencollective.com){target="_blank"} together with [Stripe Inc, Ireland](https://stripe.com){target="_blank"}
 
 **(a) Website Visitors**
